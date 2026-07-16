@@ -11,38 +11,38 @@ These are the recommended ranks at which Spartans should receive different tiers
 **Tier 5**: Commander
 **Tier 6**: Hyper-Lethal Vector
 
-![[Assault Rifle]]
+![[Assault Rifle Attach]]
 
-![[Battle Rifle]]
+![[Battle Rifle Attach]]
 
-![[Bulldog]]
+![[Bulldog Attach]]
 
-![[Commando Rifle]]
+![[Commando Rifle Attach]]
 
-![[DMR]]
+![[DMR Attach]]
 
-![[Flamethrower]]
+![[Flamethrower Attach]]
 
-![[Grenade Launcher]]
+![[Grenade Launcher Attach]]
 
-![[Hydra Launcher]]
+![[Hydra Launcher Attach]]
 
-![[Magnum Pistol]]
+![[Magnum Pistol Attach]]
 
-![[Railgun]]
+![[Railgun Attach]]
 
-![[Rocket Launcher]]
+![[Rocket Launcher Attach]]
 
-![[SAW]]
+![[SAW Attach]]
 
-![[Shotgun]]
+![[Shotgun Attach]]
 
-![[Sidekick Pistol]]
+![[Sidekick Pistol Attach]]
 
-![[SMG]]
+![[SMG Attach]]
 
-![[Sniper Rifle]]
+![[Sniper Rifle Attach]]
 
-![[Spartan Laser]]
+![[Spartan Laser Attach]]
 
-![[Sticky Detonator]]
+![[Sticky Detonator Attach]]
