@@ -9,8 +9,16 @@
 ![[Hornet]]
 
 
+![[Mantis]]
+
+
 ![[Mongoose]]
 
 
+![[Pelican]]
+
 
 ![[Rocket Warthog]]
+
+
+![[Scorpion]]
