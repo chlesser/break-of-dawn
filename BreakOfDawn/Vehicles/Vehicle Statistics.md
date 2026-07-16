@@ -36,7 +36,6 @@ Damage: 20d12
 Dodge DC: 95
 Radius: 15 feet
 
-
 **Vehicle Damage Reduction**
 Since metal is more durable than flesh, vehicles will not take as much damage as normal creatures. All non-explosive damage that is not dealt by another vehicle is halved.
 
@@ -71,7 +70,6 @@ Since metal is more durable than flesh, vehicles will not take as much damage as
 **Weapon Range:** The range of the vehicle’s weapon.
 
 **Special Abilities:** Any abilities the vehicle has that aren’t universal among all vehicles.
-
 
 ### Vehicle Components
 When making an attack against different vehicle components, you may add the called shot bonus of the weapon to your attack, however the bonus granted cannot bring the penalty to more than -0. Additionally, any abilities that allow you to target 2 or more targets, such as Split or Twice the Pride, can allow you to target multiple components according to how many targets you may attack. 
@@ -110,9 +108,6 @@ In many situations a player or creature may attempt to hijack a vehicle. Hijacki
 **Massive:** DC 45
 (These values can be altered at the GM’s discretion)
 
-  
-  
-
 ### Vehicle Operations
 While driving a vehicle, you cannot make Combat Maneuvers (unless otherwise stated by the vehicle’s Stat Block), but you gain access to a new set of options for your Operation. They are as follows:
 
@@ -135,6 +130,3 @@ Unless otherwise stated, all vehicles are immune to the Blinded, Deafened, Frigh
 
 **Stationary**
 When a vehicle is not being piloted, it is stationary and suffers a -25 to all dodges.
-
-  
-**

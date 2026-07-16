@@ -48,6 +48,8 @@ This is a list of all the playable character classes in Break of Dawn. This incl
 
 ![[Weapons]]
 
+![[Attachments]]
+
 # Vehicles
 ## VEHICLE STATISTICS
 
@@ -721,8 +723,6 @@ Weapon Range: 75 feet
 **Special Abilities:**  
 *Teleportation*: As a Secondary Operation, the Phaeton can teleport to an unoccupied space it can see within 30 feet.   
 *Missile Barrage:* The Phaeton is equipped with eight missiles. As a Primary Operation, the pilot may fire up to two of these missiles at a time. Each missile deals 22 (4d10) explosive damage and has a Dodge DC of 35, or Dodge DC 70 if the target is a vehicle, as the missiles home in on the target. Any creatures or vehicles within 5 feet of the target must make a dodge or take half damage (rounded down), taking no damage on a successful dodge.
-
-![[Attachments]]
 
 # Allies and Enemies
 
