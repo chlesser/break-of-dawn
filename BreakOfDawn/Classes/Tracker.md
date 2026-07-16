@@ -1,5 +1,5 @@
 ## Tracker
-Scouting ahead of the rest of the fireteam, the Tracker aims to gather valuable information as to their enemies’ position. Able to sniff out anything without making a sound, she sees through the Covenant raiding party’s camouflage. Quietly coming from behind with a silenced DMR, she takes out the sentries as she aims her final shot into the head of their leader.
+Scouting ahead of the rest of the fireteam, the Tracker aims to gather valuable information as to their enemies’ position. Able to sniff out anything without making a sound, she sees through the Covenant raiding party’s camouflage. Quietly coming from behind with a silenced DMR, she takes out the sentries as she aims her final shot into the head of their leader. Wheee.
 
 **Statistics:**  
 Health: 30  

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Break of Dawn.md",
+                "file": "Classes/Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Break of Dawn"
+              "title": "Tracker"
             }
           }
         ],
@@ -253,8 +253,8 @@
   },
   "active": "62eed55b467f8379",
   "lastOpenFiles": [
-    "Misc/Battlefield Externalities.md",
     "Break of Dawn.md",
+    "Misc/Battlefield Externalities.md",
     "Rules/Rules.md",
     "Misc",
     "Misc/Effects.md",
