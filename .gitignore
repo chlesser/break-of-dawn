@@ -1,6 +1,6 @@
 # Ignore volatile UI and layout state (Crucial to prevent frequent merge conflicts)
-BreakOfDawn/.obsidian/workspace.json
-BreakOfDawn/.obsidian/workspace-mobile.json
+BreakOfDawn\.obsidian\workspace.json
+BreakOfDawn\.obsidian\workspace-mobile.json
 
 # Ignore system-specific junk
 .DS_Store
