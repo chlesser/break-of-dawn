@@ -1,34 +1,39 @@
-/* Remove embed container styling */
-.markdown-embed {
+/* Reading view - correct class name */
+.markdown-preview-view .markdown-embed {
   border: none !important;
   background-color: transparent !important;
   padding: 0 !important;
   margin: 0 !important;
 }
 
-/* Hide the embed title bar (filename header) */
-.markdown-embed-title {
+.markdown-preview-view .markdown-embed-title,
+.markdown-preview-view .markdown-embed-link {
   display: none !important;
 }
 
-/* Remove the link icon that appears on embed titles */
-.markdown-embed-link {
-  display: none !important;
-}
-
-/* Remove extra spacing/indent the embed content block adds */
-.markdown-embed-content {
-  margin: 0 !important;
-}
-.markdown-embed,
-.markdown-embed-content,
-.markdown-embed-content .markdown-preview-view,
-.markdown-embed-content .markdown-preview-sizer {
+.markdown-preview-view .markdown-embed-content,
+.markdown-preview-view .internal-embed {
   padding-left: 0 !important;
   margin-left: 0 !important;
 }
 
-.internal-embed {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
+/* PDF export specifically uses print media context */
+@media print {
+  .markdown-embed {
+    border: none !important;
+    background-color: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .markdown-embed-title,
+  .markdown-embed-link {
+    display: none !important;
+  }
+
+  .markdown-embed-content,
+  .internal-embed {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
 }
