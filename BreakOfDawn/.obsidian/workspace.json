@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a6992c68d35056a",
+            "id": "22b146f023abd17a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "22b146f023abd17a",
+            "id": "6a6992c68d35056a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,8 +34,37 @@
               "icon": "lucide-file",
               "title": "Assassin"
             }
+          },
+          {
+            "id": "7c03f51a70c7adf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Commando.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commando"
+            }
+          },
+          {
+            "id": "d6ba598be433bd66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classes"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Break of Dawn.md",
+                "file": "Classes/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Break of Dawn"
+              "title": "Backlinks for Classes"
             }
           },
           {
@@ -197,10 +226,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a6992c68d35056a",
+  "active": "d6ba598be433bd66",
   "lastOpenFiles": [
-    "Classes/Assassin.md",
+    "Classes/Commando.md",
     "Break of Dawn.md",
+    "Classes/Classes.md",
+    "Classes/Assassin.md",
     "Classes",
     "Welcome.md"
   ]
