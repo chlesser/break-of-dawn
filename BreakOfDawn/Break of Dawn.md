@@ -548,75 +548,9 @@ This is a list of all the playable character classes in Break of Dawn. This incl
 ![[Tracker]]
 
 # Homeworlds & Backgrounds
-
-Spartans hail from all across Earth’s colonies. Each Spartan is shaped by their experiences on their Homeworld. These Spartans come from unique backgrounds that can influence the way they see and interact with their environment. As part of Character Creation, you will select a Homeworld and a Background to represent your Character’s life before they were inducted into the Spartan program. 
-
-**Urban** \- An Urban Homeworld consists of a dense population in a metropolitan community. You are accustomed to skyscrapers, alleyways, streets, and the finest architectural achievements humanity has to offer.   
-**Agrarian** \- An Agrarian Homeworld consists of rural farmlands. You are accustomed to farm life, living away from civilization, and living off the land.    
-**Forested** \- A Forested Homeworld is composed of undeveloped woodlands, jungles, or rainforests. You are accustomed to hunting, survivalism, a low level of technology, and wild, unspoiled wilderness.  
-**Oceanic** \- An Oceanic Homeworld is in part or completely covered by deep water. You are accustomed to marine life, sailing, stormy weather, and the unpredictable temperament of the sea.   
-**Cosmic** \- A Cosmic Homeworld is a Homeworld that is exposed to the vacuum of space, such as a Space Station or Asteroid Colony. You are accustomed to confined spaces, advanced technology, space travel, and the constant looming threat of death.  
-**Arid** \- An Arid Homeworld has little rainfall, such as a tundra or desert. You are accustomed to extreme climates, dry and barren landscapes, limited resources, and living within inhospitable ecosystems. 
-
-Each Homeworld comes with its own unique benefits, as well as a choice of backgrounds that all represent upbringings unique to these planets. 
-
-**Urban**  
-When Piloting a vehicle in an urban environment, you have a \+5 bonus to Dodge Rolls and a \+10 bonus to the vehicle’s movement speed. In addition, entering and exiting a vehicle for you is a Secondary Operation in Urban environments. 
-
-*Architect* \- Add \+10 to Crafting interactions and when shooting through cover, you may treat the cover as being one level lower.
-
-*Criminal* \- Add \+10 to Stealth interactions and when dual-wielding weapons you may make one extra attack with your second weapon.
-
-*Socialite* \- Add \+10 to Charisma interactions and when making a roll to interact with a friendly creature that can understand you, you may roll 2d100 and use the higher roll. 
-
-**Agrarian**  
-When in an agrarian environment, any cover you are behind counts as 1 level higher.
-
-*Farmer \-* Add \+10 to Fortitude interactions and you may take the Grapple maneuver without spending a Primary Operation. 
-
-*Pioneer \-* Add \+10 to Detection interactions and a \+5 Dodge Bonus when more than 30 feet away from any allies.
-
-*Laborer \-* Add \+25 to Lifting interactions.
-
-**Forested**   
-When in a forested environment, you gain \+10 movement speed. 
-
-*Hunter:* Add \+10 to Tracking interactions and you deal an additional \+1 damage die against any creature you succeed on a Tracking interaction against while following. 
-
-*Naturalist*: Add \+10 to Medicinal interactions and when making Medicinal interactions to use medpacks you may roll 2d100 and use the higher roll. 
-
-*Explorer:* Add \+10 to Agility interactions and ignore difficult terrain caused by natural effects. 
-
-**Oceanic**  
-When in an oceanic environment, when in water at least waist-deep, you can ignore penalties imposed by difficult terrain and treat the water as average cover. 
-
-*Sailor* \- Add \+10 to Tactics interactions and allies within 10 feet of you with a Dodge Bonus lower than yours may use your Dodge Bonus when making Dodge Rolls. 
-
-*Diver* \- Add \+10 to Agility Interactions and ignore movement and dodge penalties when submerged in water.
-
-*Salvager* \- Add \+10 to Crafting Interactions and you may spend an hour crafting up to 3 ammo die for a small weapon, 2 ammo die for a medium weapon, or 1 ammo die for a large weapon.
-
-**Cosmic**  
-When in a cosmic environment, you can ignore the movement penalties associated with combat in space. 
-
-*Technician* \- You can spend 2 hours making a machine that will help with one interaction of your choice. The machine will add a \+10 to the roll. You can have up to 2 machines active at a time.
-
-*Astronaut* \- Add \+10 to all Handling interactions and can spend 10 minutes to repair a vehicle for up to 20 health. 
-
-*Soldier* \- Add \+10 to Firepower interactions and as a Secondary Operation, you can make a DC 90 Tactics interaction to see if you can correctly predict where a certain enemy will move next. On a successful interaction, your weapon’s Dodge DC increases by \+10 against that creature until the end of your turn
-
-**Arid**  
-When in an arid environment, you can ignore the penalties of the first two levels of exhaustion.  However, when you reach the third level of exhaustion, the penalties of the first two are cumulative. 
-
-*Athlete \-* Add \+10 to Agility interactions and \+10 to movement speed.
-
-*Nomad \-* Add \+10 to Detection interactions and the Scramble maneuver does not cost your Secondary Operation.
-
-*Exile:* Add \+10 to Fortitude interactions and \+10 to Demolition interactions and you cannot be killed by exhaustion. 
+![[Homeworlds]]
 
 # Weapons and Vehicles
-
-**![][image3]**
 
 ## WEAPON STATISTICS
 

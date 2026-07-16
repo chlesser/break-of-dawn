@@ -8,115 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22b146f023abd17a",
+            "id": "a63c7c617abfcfb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Sniper.md",
+                "file": "Homeworlds/Homeworlds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sniper"
-            }
-          },
-          {
-            "id": "8b872eefea1516ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Commando.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commando"
-            }
-          },
-          {
-            "id": "007f456a581cf189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Classes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classes"
-            }
-          },
-          {
-            "id": "ee05603c46a57a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Tech.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tech"
-            }
-          },
-          {
-            "id": "171f41f5e949eb7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Leader.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leader"
-            }
-          },
-          {
-            "id": "ebddba5b6497f006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Heavy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Heavy"
-            }
-          },
-          {
-            "id": "b3472d8770f8c683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Engineer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Engineer"
-            }
-          },
-          {
-            "id": "162f316cdc2d1898",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Demolitionist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Demolitionist"
+              "title": "Homeworlds"
             }
           },
           {
@@ -125,16 +27,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Break of Dawn.md",
+                "file": "Homeworlds/Urban.md",
                 "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Urban"
+            }
+          },
+          {
+            "id": "060c53e3ca500293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Break of Dawn.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Break of Dawn"
             }
+          },
+          {
+            "id": "f6b46f38b6949f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homeworlds/Oceanic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oceanic"
+            }
+          },
+          {
+            "id": "adf8383f6ff0bc7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homeworlds/Cosmic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosmic"
+            }
+          },
+          {
+            "id": "865fe9dd95b93abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homeworlds/Arid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arid"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -296,19 +254,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "f829eb30dd39608a",
+  "active": "060c53e3ca500293",
   "lastOpenFiles": [
-    "Classes/Classes.md",
+    "Homeworlds/Homeworlds.md",
+    "Homeworlds/Agrarian.md",
+    "Homeworlds/Arid.md",
     "Break of Dawn.md",
-    "Classes/Assassin.md",
-    "Classes/Tech.md",
-    "Classes/Leader.md",
-    "Classes/Heavy.md",
-    "Classes/Engineer.md",
+    "Homeworlds/Cosmic.md",
+    "Homeworlds/Oceanic.md",
+    "Homeworlds/Forested.md",
+    "Homeworlds/Urban.md",
+    "Rules",
     "Classes/Demolitionist.md",
+    "Classes/Engineer.md",
+    "Classes/Heavy.md",
+    "Classes/Leader.md",
+    "Classes/Tech.md",
+    "Classes/Classes.md",
     "Classes/Commando.md",
-    "Classes/Tracker.md",
     "Classes/Sniper.md",
+    "Homeworlds",
+    "Classes/Assassin.md",
+    "Classes/Tracker.md",
     "Classes",
     "Welcome.md"
   ]
