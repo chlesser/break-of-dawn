@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Break of Dawn.md",
+                "file": "Vehicles/Vehicles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Break of Dawn"
+              "title": "Vehicles"
             }
           },
           {
@@ -41,30 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vehicles/Vehicle Statistics.md",
+                "file": "Weapons/UNSC/Assault Rifle Stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vehicle Statistics"
+              "title": "Assault Rifle Stats"
             }
           },
           {
-            "id": "908babeb5108b19c",
+            "id": "4e25e437f77f75b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Break of Dawn.md",
+                "file": "Weapons/UNSC/Assault Rifle Stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Break of Dawn"
+              "title": "Assault Rifle Stats"
+            }
+          },
+          {
+            "id": "8b3ed2c145934e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Battlefield Externalities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Battlefield Externalities"
+            }
+          },
+          {
+            "id": "d8f920b2c9f7e717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weapons/Weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Break of Dawn.md",
+                "file": "Weapons/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Break of Dawn"
+              "title": "Backlinks for Weapons"
             }
           },
           {
@@ -223,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,20 +265,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "908babeb5108b19c",
+  "active": "d8f920b2c9f7e717",
   "lastOpenFiles": [
+    "Vehicles/Vehicles.md",
+    "Misc/Battlefield Externalities.md",
+    "Weapons/UNSC/Assault Rifle Stats.md",
+    "Weapons/UNSC/Grappling Hook Stats.md",
+    "Break of Dawn.md",
+    "Weapons/UNSC/Bulldog Stats.md",
+    "Vehicles/Vehicle Statistics.md",
+    "Weapons/UNSC/Battle Rifle Stats.md",
     "Vehicles/UNSC Vehicles/a_UNSC Vehicles.md",
     "Vehicles/UNSC Vehicles/Rocket Warthog.md",
     "Vehicles/UNSC Vehicles/Hornet.md",
     "Vehicles/UNSC Vehicles/Gauss Warthog.md",
     "Vehicles/UNSC Vehicles/Chaingun Warthog.md",
     "Untitled.md",
-    "Vehicles/Vehicle Statistics.md",
-    "Weapons/UNSC/Grappling Hook Stats.md",
     "Weapons/UNSC/Grenade Launcher Stats.md",
     "Weapons/Covenant/Beam Rifle Stats.md",
     "Weapons/Promethean/Promethean Weaponry.md",
-    "Break of Dawn.md",
     "Creatures",
     "Creatures/Enemies",
     "Weapons/Weapons.md",
@@ -263,11 +295,6 @@
     "Weapons/Grenades/Stun Grenade Stats.md",
     "Weapons/Grenades/Smoke Grenade Stats.md",
     "Weapons/Grenades/Plasma Grenade Stats.md",
-    "Weapons/Turrets/Plasma Turret Stats.md",
-    "Weapons/Turrets/Splinter Turret Stats.md",
-    "Weapons/Turrets/Rocket Turret Stats.md",
-    "Weapons/Turrets/Gauss Turret Stats.md",
-    "Weapons/Turrets/Chaingun Turret Stats.md",
     "Vehicles/UNSC Vehicles",
     "Vehicles",
     "Weapons/Turrets",
