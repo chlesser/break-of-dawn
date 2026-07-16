@@ -1,2 +1,3 @@
 ![[Turns, Operations, and Combat Time]]
-![[Combat Manuevers]]
+![[Combat Maneuvers]]
+![[Combat Maneuvers By Cost]]

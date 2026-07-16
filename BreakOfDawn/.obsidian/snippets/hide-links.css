@@ -19,21 +19,25 @@
 
 /* PDF export specifically uses print media context */
 @media print {
-  .markdown-embed {
-    border: none !important;
-    background-color: transparent !important;
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-
-  .markdown-embed-title,
-  .markdown-embed-link {
-    display: none !important;
-  }
-
+  /* Reduce/remove embed indentation specifically */
   .markdown-embed-content,
   .internal-embed {
     padding-left: 0 !important;
     margin-left: 0 !important;
+  }
+
+  /* Reduce the overall page margin PDF export uses */
+  .print .markdown-preview-view,
+  .markdown-preview-sizer {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  /* If nested lists/embeds still indent via blockquote or list wrapping */
+  .markdown-embed blockquote,
+  .markdown-embed ul,
+  .markdown-embed ol {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
   }
 }

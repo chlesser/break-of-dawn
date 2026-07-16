@@ -46,6 +46,7 @@ Any interactions that involve attempting to use, decipher, or identify a technol
 **Tracking**   
 Tracking encompasses all skills used to follow a creature that you have lost sight of or have only evidence of such as footprints, blood trails, or particularly strong scents. The difficulty of these checks may vary over different types of terrain such as mud, snow, or stone.
 
+### Difficulty
 Interactions are based on the tier of difficulty of the interaction. These tiers are:
 
 Easy- DC 40  
@@ -57,8 +58,8 @@ Close to impossible- DC 150
 
 A roll of 100 on any of these is an immediate success, while a 1 is an immediate fail. At the GM’s discretion, rolling a 100 may be considered a “critical success” and provide additional benefits, or rolling a 1 may be considered a “critical failure” and invoke additional penalties. 
 
-Improving Interactions  
+### Improving Interactions  
 At certain levels, you may have the opportunity to gain “Interaction Points.” The Spartan can distribute these Interaction Points across their Interactions, with each point giving a permanent \+1 bonus to that Interaction. Additionally, as you rank up, the bonus to Interactions that you have superiority or expertise in will increase.
 
-Interaction Contests  
+### Interaction Contests  
 Certain game instances may involve an interaction contest between two creatures. When this happens, both creatures must perform a given interaction and compare their result, adding any applicable modifiers. The creature with the higher total wins the contest, with ties being won by the targeted creature. 

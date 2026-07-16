@@ -9,3 +9,12 @@
 | [[Sniper]]        | Detection, Stealth    | Agility, Tech        | A light but deadly attacker that deals massive damage from the fringes of the battlefield.                                                                    |
 | [[Tech]]          | Handling, Tech        | History, Medicinal   | A support class that uses their technical skills to empower their allies and rescue downed comrades.                                                          |
 | [[Tracker]]       | Tracking, Stealth     | Medicinal, Detection | A specialist that excels in tracking down and eliminating targets, as well as identifying potential threats before they become problems.                      |
+![[Assassin]]
+![[Commando]]
+![[Demolitionist]]
+![[Engineer]]
+![[Heavy]]
+![[Leader]]
+![[Sniper]]
+![[Tech]]
+![[Tracker]]
