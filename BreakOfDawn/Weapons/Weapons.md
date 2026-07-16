@@ -20,3 +20,7 @@ Each weapon has a certain amount of ammo die. Anytime a creature makes an attack
 When making an attack beyond the range of a weapon, the Dodge DC decreases by 15 for every 5 feet beyond the weapon’s range. For precision weapons, the Dodge DC only decreases by 10 for every 5 feet beyond the weapon’s range. When the Dodge DC of the weapon reaches 0, the attack automatically misses.
 
 ![[UNSC Weaponry]]
+![[Covenant Weaponry]]
+![[Promethean Weaponry]]
+![[Turrets]]
+![[Grenades]]
