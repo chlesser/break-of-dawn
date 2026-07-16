@@ -5,31 +5,31 @@ A new TTRPG set in the world of Bungie and 343 Industries’ HALO franchise, mad
 A guide to all that you need to know to play the Break of Dawn along with weapons, enemies and allies indexes.
 # Table of Contents
 
-Rules………………………………………………………………………….……………………….3  
-Basic Rules and terms…….…………………………………………………………………..…………4  
-Rules of Engagement (Operations, Movement, Combat, et cetera).……………………………….5  
-Rank, Mission Tiers, and Gun Attachments………………………………..………………………...11  
-Effects…………………………………………………………………………………………………….13  
-Fireteam Players………………………………………………………………………………………...14  
-Backgrounds……………………………………………………………………………………………..25  
-Homeworlds and Affinites………………………………………………………………………………26  
-Guns and Vehicles………………………………………………………………………….……..27  
-Gun Statistics………………………………………………………………….…………………...…....28  
-UNSC Weaponry………………………………………...……………………………………….……..29  
-Covenant Weaponry…………………………………………………………………………………….34  
-Promethean Weaponry……………………………………………………………...………………….39  
-Turrets…………………………………………………………………………………………………….42  
-Grenades………………………………………………………………………………………………...44  
-Vehicle Statistics………………………………………………………………………………………...45  
-UNSC Vehicles…………………………………………………………………………………………..46  
-Covenant Vehicles………………………………………………………………………………………52  
-Promethean Vehicles…………………………………………………………………………………...56  
-Weapon Attachments…………………………………………………………………………………...57  
-Allies and Enemies………………………………………………………………………………..74  
-Covenant Enemies……………………………………………………………………………………...75  
-Promethean Enemies………………………………………………………………….………………..90  
-UNSC Allies……………………………………………………………………………………………...96  
-Spartan Info Sheet………………………………………………………………….……………..99
+Rules………………………………………………………………………….………………………??  
+Basic Rules and terms…….…………………………………………………………………..………??  
+Rules of Engagement (Operations, Movement, Combat, et cetera).………………………………??  
+Rank, Mission Tiers, and Gun Attachments………………………………..………………………...??  
+Effects…………………………………………………………………………………………………….??  
+Fireteam Players………………………………………………………………………………………...??  
+Backgrounds……………………………………………………………………………………………..??  
+Homeworlds and Affinites………………………………………………………………………………??  
+Guns and Vehicles………………………………………………………………………….……..??  
+Gun Statistics………………………………………………………………….…………………...…....??  
+UNSC Weaponry………………………………………...……………………………………….……..??  
+Covenant Weaponry…………………………………………………………………………………….??  
+Promethean Weaponry……………………………………………………………...………………….??  
+Turrets…………………………………………………………………………………………………….??  
+Grenades………………………………………………………………………………………………..??
+Vehicle Statistics………………………………………………………………………………………...??  
+UNSC Vehicles…………………………………………………………………………………………..??  
+Covenant Vehicles………………………………………………………………………………………??  
+Promethean Vehicles…………………………………………………………………………………...??  
+Weapon Attachments…………………………………………………………………………………...??  
+Allies and Enemies………………………………………………………………………………..??  
+Covenant Enemies……………………………………………………………………………………...??  
+Promethean Enemies………………………………………………………………….………………..??  
+UNSC Allies……………………………………………………………………………………………...??  
+Spartan Info Sheet………………………………………………………………….……………..??
 
 ![[Rules]]
 
