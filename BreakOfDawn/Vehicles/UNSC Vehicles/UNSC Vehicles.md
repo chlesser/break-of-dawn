@@ -1,2 +1,0 @@
-## UNSC Vehicles
-![[Mongoose]]
