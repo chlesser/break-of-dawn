@@ -217,6 +217,12 @@
   },
   "active": "90812338a2b7e10f",
   "lastOpenFiles": [
+    "Vehicles/UNSC Vehicles/UNSC Vehicles.md",
+    "Vehicles/UNSC Vehicles/Mongoose.md",
+    "Vehicles/Vehicles.md",
+    "Vehicles/Vehicle Statistics.md",
+    "Vehicles/UNSC Vehicles",
+    "Vehicles",
     "Weapons/Covenant/Beam Rifle Stats.md",
     "Weapons/Covenant/Covenant Weaponry.md",
     "Weapons/Covenant/Storm Rifle Stats.md",
@@ -239,10 +245,6 @@
     "Weapons/UNSC/Battle Rifle Stats.md",
     "Weapons/UNSC/Assault Rifle Stats.md",
     "Weapons/UNSC/Bulldog Stats.md",
-    "Weapons/UNSC/DMR Stats.md",
-    "Weapons/UNSC/Commando Rifle Stats.md",
-    "Weapons/UNSC/Flamethrower Stats.md",
-    "Weapons/UNSC/Grappling Hook Stats.md",
     "Weapons/Turrets",
     "Weapons/Grenades",
     "Weapons/Promethean",
@@ -250,8 +252,6 @@
     "Weapons/UNSC",
     "Weapons",
     "Attachments/Turret",
-    "Attachments/Gun",
-    "Attachments",
-    "Rules/Combat/Combat Manuevers"
+    "Attachments/Gun"
   ]
 }

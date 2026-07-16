@@ -1,0 +1,12 @@
+### Mongoose
+
+|                                                                                                                                     |                                                                                                                                                                                                    |                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Core                                                                                                                                | Weaponry                                                                                                                                                                                           | Seats                                                                  |
+| Health: 125<br>Shields: N/A<br>Speed: 60 feet<br>Size: Small<br>Terrain: Land                                                       | Weapon Dodge: DC 35<br>Weapon Damage: 13 (2d12)<br>Weapon Type: Explosive<br>Attacks in a turn: 2<br>Weapon Range: 25 feet<br>Ram Dodge: DC 55<br><br>Ram Damage: 23 (5d8)<br><br>Turret Type: N/A | Pilots: 1<br><br>Gunners: 1<br><br>Turrets: N/A<br><br>Passengers: N/A |
+| Components                                                                                                                          | Special Abilities                                                                                                                                                                                  |                                                                        |
+| Chassis: 125<br><br>Axles: 20<br><br>Cockpit: N/A<br><br>Engine: 20<br><br>Turret: N/A<br><br>Wings: N/A<br><br>Weapons Systems: 40 | All-Terrain: The Mongoose is not affected by difficult terrain caused by natural circumstances.                                                                                                    | Dash: The Mongoose can use the Dash maneuver.                          |
+
+
+
+**
