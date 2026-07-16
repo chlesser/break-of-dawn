@@ -46,7 +46,7 @@ This is a list of all the playable character classes in Break of Dawn. This incl
 # Homeworlds & Backgrounds
 ![[Homeworlds]]
 
-# Weapons and Vehicles
+# Weapons
 
 ## WEAPON STATISTICS
 
@@ -831,8 +831,6 @@ Turrets are similar to guns, and can save a desperate fireteam when in need. Tur
 Mounted and Detached Turrets  
 Turrets have two modes; mounted and detached. A mounted turret refers to one that is stationary, while a detached turret refers to one that is actively being carried around by someone. As a Tertiary Operation you may start or stop using a turret that is mounted. While a turret is mounted, it does not consume ammo, and you may make an additional attack, but lose the ability to move and make combat maneuvers while operating the turret. Despite not being able to move a mounted turret, it can still fire in all directions. As a Secondary Operation, you may detach the turret, provided that you have the necessary gun slots. When a turret is detached it becomes portable, however the user loses 10 feet of movement speed and the ability to make the Dash, Evasion, and Scramble maneuvers.
 
-## 
-
 ## TURRETS
 
 Chaingun Turret  
@@ -998,6 +996,7 @@ Range: 35 feet
 **Special Abilities:**  
 *Obscure:* The smoke grenade obscures everything in its radius; creatures cannot see into or past the radius of the smoke grenade. All creatures within radius of the grenade gain an additional \+10 dodge bonus as they are engulfed in smoke, however suffer \-10 Dodge DC to any attacks they make while in the smoke. Creatures with Thermal Imaging Goggles and similar technology may make attacks as normal. This smoke lasts for a minute.
 
+# Vehicles
 ## VEHICLE STATISTICS
 
 Vehicles are larger than people, and will have a harder time avoiding bullet fire. The severity of this penalty is directly proportional to the size of the vehicle. The table below lists the relative penalties of vehicle sizes. If you are in a vehicle when it is reduced to 0 health, you take a certain number of damage, equal to the damage dice listed on the table below.
@@ -2201,7 +2200,6 @@ Elite (Arbiter)
 | **Innate Skills** | **Passive Skills** | **Operational Skills** |
 | **Nightvision:** The Elite (Arbiter) ignores penalties resulting from Darkness. **Honor In Death:** When the Elite (Arbiter) is reduced to 0 health, it may roll a d100. If the result of this roll is above 30, the Elite (Arbiter) is not killed and drops to 1 health. Each time it uses this ability the DC increases by 20\. **Brotherhood of Warriors:** If an Elite is killed within sight of an Elite (Arbiter), the Elite (Arbiter) may immediately make a single attack targeted on the creature that killed the Elite, provided they are within range and within line of sight. | **Will of the Prophets:** Once per round, the Elite (Arbiter) can choose to pass a failed Dodge roll.  **Gladiator:** When 3 or more hostile creatures are within 40 feet of the Elite (Arbiter), the Elite (Arbiter) may take an additional Secondary and Tertiary Operation on its turn.  **Menacing:** Enemy creatures within 20 feet of the Elite (Arbiter) must make a DC 65 Fortitude interaction or be exposed to the Frightened effect. Each creature affected by this can remake the Fortitude interaction roll at the end of each turn. A creature that succeeds its interaction roll becomes immune to this effect for 24 hours.  **Last Stand:** When the Elite (Arbiter) has no shield health remaining, they become exposed to the Indomitable effect. **Blade of the Sangheili:** The Elite (Arbiter)’s Energy sword’s Dodge DC increases to 90 and the damage increases to 10d10. | **Finish the Fight:** As a Secondary Operation, the Elite (Arbiter) can end 1 effect it has been exposed to.  **Combat Reflexes:** Once per round of combat, when hit by an attacker it can see, the Elite (Arbiter) may make a single attack against the attacker as a Reactive Operation.  |
 
-## 
 
 ## PROMETHEAN ENEMIES
 
