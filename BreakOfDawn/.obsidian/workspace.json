@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vehicles/UNSC Vehicles/Mongoose.md",
+                "file": "Vehicles/UNSC Vehicles/a_UNSC Vehicles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mongoose"
+              "title": "a_UNSC Vehicles"
             }
           }
         ],
@@ -253,22 +253,24 @@
   },
   "active": "62eed55b467f8379",
   "lastOpenFiles": [
-    "Vehicles/UNSC Vehicles/UNSC Vehicles.md",
-    "Vehicles/Vehicles.md",
+    "Vehicles/UNSC Vehicles/Rocket Warthog.md",
+    "Vehicles/UNSC Vehicles/a_UNSC Vehicles.md",
+    "Vehicles/UNSC Vehicles/Gauss Warthog.md",
+    "Vehicles/UNSC Vehicles/Chaingun Warthog.md",
     "Vehicles/UNSC Vehicles/Mongoose.md",
+    "Vehicles/UNSC Vehicles/Hornet.md",
+    "Untitled.md",
+    "Classes/Tracker.md",
+    "Vehicles/Vehicles.md",
     "Vehicles/Vehicle Statistics.md",
     "Vehicles/UNSC Vehicles",
-    "Untitled.md",
     "Vehicles",
-    "Weapons",
-    "Rules/Combat/Combat Maneuvers.md",
-    "Rules/Combat/Combat Manuevers/Scramble.md",
-    "Classes/Tracker.md",
-    "Rules/Combat/Combat Manuevers/Warcry.md",
     "Rules/Combat/Combat Manuevers/Throw.md",
+    "Rules/Combat/Combat Manuevers/Warcry.md",
     "Rules/Combat/Combat Manuevers/Switch.md",
     "Rules/Combat/Combat Manuevers/Survey.md",
     "Rules/Combat/Combat Manuevers/Shelter.md",
+    "Rules/Combat/Combat Manuevers/Scramble.md",
     "Rules/Combat/Combat Manuevers/Recover.md",
     "Rules/Combat/Combat Manuevers/Ready Up.md",
     "Rules/Combat/Combat Manuevers/Quick Footed.md",
@@ -279,15 +281,13 @@
     "Rules/Combat/Combat Manuevers/Knockdown.md",
     "Rules/Combat/Combat Manuevers/Intimidate.md",
     "Rules/Combat/Combat Manuevers/Identify.md",
-    "Rules/Combat/Combat Manuevers/Hull Pierce.md",
-    "Rules/Combat/Combat Manuevers/Hide.md",
-    "Rules/Combat/Combat Manuevers/Ground Pound.md",
     "Rules/Combat/Combat Manuevers",
     "Attachments/Turret",
     "Attachments/Gun",
     "Attachments",
     "Misc",
     "Rules/General",
-    "Rules/Combat"
+    "Rules/Combat",
+    "Rules"
   ]
 }
