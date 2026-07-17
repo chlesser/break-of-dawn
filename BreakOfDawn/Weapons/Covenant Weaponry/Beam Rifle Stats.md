@@ -1,15 +1,5 @@
 ### Beam Rifle
-**Damage**: 36 (8d8)
-**Dodge**: DC 75
-**Size**: Large
-**Type**: Plasma
-**Ammo Die**: 3d6
-**Attacks**: 1
-**Dual-Wield**: No
-**Precision Weapon**: Yes
-**Called Shot Bonus**: +15
-**Cover Negation**: Average
-**Range**: 100 feet
 
-**Special Abilities:**
-N/A
+| **Core**                                                                                               | **Properties**                                                                                                                                      | **Special Abilities** |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Dodge:** DC 75<br>**Damage:** 36 (8d8)<br>**Attacks:** 1<br>**Ammo Die:** 3d6<br>**Range:** 100 feet | **Size:** Large<br>**Type:** Plasma<br>**Dual-Wield:** No<br>**Precision Weapon:** Yes<br>**Called Shot Bonus:** +15<br>**Cover Negation:** Average | N/A                   |

@@ -1,15 +1,5 @@
 ### Brute Plasma Rifle
-**Damage**: 7 (2d6)
-**Dodge**: DC 45
-**Size**: Small
-**Type**: Plasma
-**Ammo Die**: 8d6
-**Attacks**: 4
-**Dual-Wield**: Yes
-**Precision Weapon**: No
-**Called Shot Bonus**: N/A
-**Cover Negation**: Flimsy
-**Range**: 40 feet
 
-**Special Abilities:**
-N/A
+| **Core**                                                                                             | **Properties**                                                                                                                                     | **Special Abilities** |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Dodge:** DC 45<br>**Damage:** 7 (2d6)<br>**Attacks:** 2<br>**Ammo Die:** 8d6<br>**Range:** 40 feet | **Size:** Small<br>**Type:** Plasma<br>**Dual-Wield:** Yes<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | N/A                   |

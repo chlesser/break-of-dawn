@@ -1,15 +1,5 @@
 ### Binary Rifle
-**Damage**: 52 (8d12)
-**Dodge**: DC 75
-**Size**: Massive
-**Type**: Hardlight
-**Ammo Die**: 3d2
-**Attacks**: 1
-**Dual-Wield**: No
-**Precision Weapon**: Yes
-**Called Shot Bonus**: +15
-**Cover Negation**: Solid
-**Range**: 120 feet
 
-**Special Abilities:**
-N/A
+| **Core**                                                                                                | **Properties**                                                                                                                                         | **Special Abilities** |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| **Dodge:** DC 75<br>**Damage:** 52 (8d12)<br>**Attacks:** 1<br>**Ammo Die:** 3d2<br>**Range:** 120 feet | **Size:** Massive<br>**Type:** Hardlight<br>**Dual-Wield:** No<br>**Precision Weapon:** Yes<br>**Called Shot Bonus:** +15<br>**Cover Negation:** Solid | _N/A_                 |
