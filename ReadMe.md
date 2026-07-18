@@ -1,0 +1,1 @@
+[Open Document](BreakOfDawn/Break-of-Dawn.md)
