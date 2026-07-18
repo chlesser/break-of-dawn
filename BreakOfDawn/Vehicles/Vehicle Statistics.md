@@ -84,10 +84,7 @@ In many situations a player or creature may attempt to hijack a vehicle. Hijacki
 **Large:** DC 60
 **Massive:** DC 45
 (These values can be altered at the GM’s discretion)
-
   
-  
-
 ### Vehicle Operations
 While driving a vehicle, you cannot make Combat Maneuvers (unless otherwise stated by the vehicle’s Stat Block), but you gain access to a new set of options for your Operation. They are as follows:
 
@@ -110,6 +107,3 @@ Unless otherwise stated, all vehicles are immune to the Blinded, Deafened, Frigh
 
 **Stationary**
 When a vehicle is not being piloted, it is stationary and suffers a -25 to all dodges.
-
-  
-**
