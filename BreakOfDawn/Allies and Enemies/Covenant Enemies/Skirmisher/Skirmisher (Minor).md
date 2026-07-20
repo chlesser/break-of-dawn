@@ -1,4 +1,4 @@
-Skirmisher (Minor)
+### Skirmisher (Minor)
 
 | Core                                                                                                                                                                  | Offensive                                                                                                                    | Support                                                                                                                                                              |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6,6 +6,6 @@ Skirmisher (Minor)
 | **Innate Skills**                                                                                                                                                     | **Passive Skills**                                                                                                           | **Operational Skills**                                                                                                                                               |
 | _Headshot Susceptibility_<br>_Quick_                                                                                                                                  | N/A                                                                                                                          | N/A                                                                                                                                                                  |
 #### Skills
-**Headshot Susceptibility:** Any headshot scored against the Skirmisher (Minor) deals +1 additional damage die. 
+_(Innate)_ **Headshot Susceptibility:** Any headshot scored against the Skirmisher (Minor) deals +1 additional damage die. 
 
-**Quick:** The Skirmisher (Minor) can take the Dash maneuver using only a Secondary and Tertiary Operation.
+_(Innate)_ **Quick:** The Skirmisher (Minor) can take the Dash maneuver using only a Secondary and Tertiary Operation.
