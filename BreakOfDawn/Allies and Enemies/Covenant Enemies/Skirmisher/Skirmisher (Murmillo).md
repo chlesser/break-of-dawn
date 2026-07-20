@@ -7,10 +7,10 @@
 | _Headshot Susceptibility_<br>_Quick_                                                                                                                                   | _Nightvision_<br>_Shielded_                                                                                                              | N/A                                                                                                                                                                                |
 
 #### Skills
-**Headshot Susceptibility:** Any headshot scored against the Skirmisher (Murmillo) deals +1 additional damage die.
+_(Innate)_ **Headshot Susceptibility:** Any headshot scored against the Skirmisher (Murmillo) deals +1 additional damage die.
 
-**Quick:** The Skirmisher (Murmillo) can take the Dash maneuver using only a Secondary and Tertiary Operation.
+_(Innate)_ **Quick:** The Skirmisher (Murmillo) can take the Dash maneuver using only a Secondary and Tertiary Operation.
 
-**Nightvision:** The Skirmisher (Murmillo) ignores penalties resulting from Darkness.
+_(Passive)_ **Nightvision:** The Skirmisher (Murmillo) ignores penalties resulting from Darkness.
 
-**Shielded:** The Skirmisher (Murmillo) has a +20 to all dodges from attackers that it can see that are no closer than 5 feet. If the attack would otherwise hit, it hits the shield. The shield has 45 shields.
+_(Passive)_ **Shielded:** The Skirmisher (Murmillo) has a +20 to all dodges from attackers that it can see that are no closer than 5 feet. If the attack would otherwise hit, it hits the shield. The shield has 45 shields.

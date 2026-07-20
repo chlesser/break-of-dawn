@@ -7,6 +7,6 @@
 | _Headshot Susceptibility_<br>_Quick_                                                                                                                                | N/A                                                                                                                                 | N/A                                                                                                                                                                           |
 
 #### Skills
-**Headshot Susceptibility:** Any headshot scored against the Skirmisher (Major) deals +1 additional damage die.
+_(Innate)_ **Headshot Susceptibility:** Any headshot scored against the Skirmisher (Major) deals +1 additional damage die.
 
-**Quick:** The Skirmisher (Major) can take the Dash maneuver using only a Secondary and Tertiary Operation.
+_(Innate)_ **Quick:** The Skirmisher (Major) can take the Dash maneuver using only a Secondary and Tertiary Operation.

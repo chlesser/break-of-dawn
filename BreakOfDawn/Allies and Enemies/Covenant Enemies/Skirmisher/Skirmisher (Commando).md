@@ -7,10 +7,10 @@
 | _Headshot Susceptibility_<br>_Quick_                                                                                                                                   | _Nightvision_<br>_Command_                                                                                                                      | N/A                                                                                                                                                                                    |
 
 #### Skills
-**Headshot Susceptibility:** Any headshot scored against the Skirmisher (Commando) deals +1 additional damage die.
+_(Innate)_ **Headshot Susceptibility:** Any headshot scored against the Skirmisher (Commando) deals +1 additional damage die.
 
-**Quick:** The Skirmisher (Commando) can take the Dash maneuver using only a Secondary and Tertiary Operation.
+_(Innate)_ **Quick:** The Skirmisher (Commando) can take the Dash maneuver using only a Secondary and Tertiary Operation.
 
-**Nightvision:** The Skirmisher (Commando) ignores penalties resulting from Darkness.
+_(Passive)_ **Nightvision:** The Skirmisher (Commando) ignores penalties resulting from Darkness.
 
-**Command:** When the Skirmisher (Commando) makes an attack, it can choose another Skirmisher that it can see within 40 feet. The chosen Skirmisher makes a single attack on the same target and can move up to half its movement speed (rounded down).
+_(Passive)_ **Command:** When the Skirmisher (Commando) makes an attack, it can choose another Skirmisher that it can see within 40 feet. The chosen Skirmisher makes a single attack on the same target and can move up to half its movement speed (rounded down).

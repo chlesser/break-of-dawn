@@ -7,12 +7,12 @@
 | _Headshot Susceptibility_<br>_Quick_                                                                                                                                   | _Nightvision_<br>_Nimble_<br>_Predator_                                                                                                         | N/A                                                                                                                                                                                         |
 
 #### Skills
-**Headshot Susceptibility:** Any headshot scored against the Skirmisher (Champion) deals +1 additional damage die.
+_(Innate)_ **Headshot Susceptibility:** Any headshot scored against the Skirmisher (Champion) deals +1 additional damage die.
 
-**Quick:** The Skirmisher (Champion) can take the Dash maneuver using only a Secondary and Tertiary Operation.
+_(Innate)_ **Quick:** The Skirmisher (Champion) can take the Dash maneuver using only a Secondary and Tertiary Operation.
 
-**Nightvision:** The Skirmisher (Champion) ignores penalties resulting from Darkness.
+_(Passive)_ **Nightvision:** The Skirmisher (Champion) ignores penalties resulting from Darkness.
 
-**Nimble:** When the Skirmisher (Champion) hits a target with an attack, it can move up to 10 feet without expending any movement speed.
+_(Passive)_ **Nimble:** When the Skirmisher (Champion) hits a target with an attack, it can move up to 10 feet without expending any movement speed.
 
-**Predator:** When attacking a target that has no allies that it can see within 15 feet, the Skirmisher (Champion) adds +10 to its weapon Dodge DC and can make a single additional attack against the same target.
+_(Passive)_ **Predator:** When attacking a target that has no allies that it can see within 15 feet, the Skirmisher (Champion) adds +10 to its weapon Dodge DC and can make a single additional attack against the same target.
