@@ -1,6 +1,6 @@
 
 ![[Skirmisher (Minor)]]
-![[Grunt (Major)]]
+![[Skirmisher (Major)]]
 ![[Skirmisher (Murmillo)]]
 ![[Skirmisher (Commando)]]
 ![[Skirmisher (Champion)]]
