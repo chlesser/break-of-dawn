@@ -1,3 +1,5 @@
+## Jackal
+
 ![[Jackal (Minor)]]
 ![[Jackal (Major)]]
 ![[Jackal (Sniper)]]

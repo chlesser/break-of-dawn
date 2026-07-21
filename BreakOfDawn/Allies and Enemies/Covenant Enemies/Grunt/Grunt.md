@@ -1,3 +1,5 @@
+## Grunt
+
 ![[Grunt (Minor)]]
 ![[Grunt (Major)]]
 ![[Grunt (Heavy)]]

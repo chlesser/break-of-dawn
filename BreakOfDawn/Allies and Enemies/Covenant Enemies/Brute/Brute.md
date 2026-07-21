@@ -1,3 +1,5 @@
+## Brute
+
 ![[Brute (Minor)]]
 ![[Brute (Major)]]
 ![[Brute (Ultra)]]
