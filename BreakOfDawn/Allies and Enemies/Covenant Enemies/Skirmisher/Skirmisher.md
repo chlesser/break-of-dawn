@@ -1,3 +1,4 @@
+## Skirmisher
 
 ![[Skirmisher (Minor)]]
 ![[Skirmisher (Major)]]
