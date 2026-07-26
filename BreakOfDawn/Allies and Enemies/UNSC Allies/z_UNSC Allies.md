@@ -1,0 +1,10 @@
+# UNSC Allies
+![[UNSC (Soldier)]]
+![[UNSC (Scout)]]
+![[UNSC (Sniper)]]
+![[UNSC (Heavy)]]
+![[UNSC (Specialist)]]
+![[UNSC (Pilot)]]
+![[UNSC (ODST)]]
+![[UNSC (Sergeant)]]
+![[UNSC (ODST Sergeant)]]

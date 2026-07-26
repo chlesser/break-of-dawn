@@ -33,3 +33,10 @@ Large/Massive: \+2 damage die, \+10 Dodge DC
 **Weapon Expertise**  
 Small/Medium: \+3 damage die, \+10 Dodge DC  
 Large/Massive: \+4 damage die, \+20 Dodge DC
+
+
+
+![[z_Covenant Enemies]]
+![[z_Promethean Enemies]]
+![[Flood Enemies]]
+![[z_UNSC Allies]]
