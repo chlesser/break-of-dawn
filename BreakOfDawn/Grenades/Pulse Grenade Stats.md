@@ -1,7 +1,8 @@
 ### Pulse Grenade
 
-| **Core**                                                        | **Properties**                            | **Special Abilities** |
+|                                                                 |                                           |                       |
 | --------------------------------------------------------------- | ----------------------------------------- | --------------------- |
+| **Core**                                                        | **Properties**                            | **Special Abilities** |
 | **Dodge:** DC 35<br>**Damage:** 13 (2d12)<br>**Range:** 25 feet | **Type:** Hardlight<br>**Radius:** 5 feet | _Hardlight Pulse_     |
 
 #### Special Abilities

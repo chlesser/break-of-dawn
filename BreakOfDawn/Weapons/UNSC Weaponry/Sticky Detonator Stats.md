@@ -1,7 +1,8 @@
 ### Sticky Detonator
 
-| **Core**                                                                                               | **Properties**                                                                                                                                        | **Special Abilities**                   |
+|                                                                                                        |                                                                                                                                                       |                                         |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| **Core**                                                                                               | **Properties**                                                                                                                                        | **Special Abilities**                   |
 | **Dodge:** DC 35<br>**Damage:** 28 (5d10)<br>**Attacks:** 1<br>**Ammo Die:** 4d2<br>**Range:** 15 feet | **Size:** Small<br>**Type:** Explosive<br>**Dual-Wield:** Yes<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Sticky_<br>_Charge Up_<br>_Detonation_ |
 #### Special Abilities
 **Sticky:** The projectiles of this weapon attach themselves to objects or creatures that they hit, requiring a DC 65 Lifting interaction to remove if they do not explode outright. If the attack misses the target creature, the projectile becomes attached to an unoccupied space up to 10 feet behind them.

@@ -1,7 +1,8 @@
 ### Skewer
 
-| **Core**                                                                                                | **Properties**                                                                                                                                       | **Special Abilities**                    |
+|                                                                                                         |                                                                                                                                                      |                                          |
 | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **Core**                                                                                                | **Properties**                                                                                                                                       | **Special Abilities**                    |
 | **Dodge:** DC 45<br>**Damage:** 91 (14d12)<br>**Attacks:** 1<br>**Ammo Die:** 2d4<br>**Range:** 60 feet | **Size:** Massive<br>**Type:** Kinetic<br>**Dual-Wield:** No<br>**Precision Weapon:** Yes<br>**Called Shot Bonus:** +10<br>**Cover Negation:** Solid | _Anti-Vehicular Rounds_<br>_Brutal Edge_ |
 
 #### Special Abilities

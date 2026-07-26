@@ -1,7 +1,8 @@
 ### Needler
 
-| **Core**                                                                                             | **Properties**                                                                                                                                     | **Special Abilities** |
+|                                                                                                      |                                                                                                                                                    |                       |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Core**                                                                                             | **Properties**                                                                                                                                     | **Special Abilities** |
 | **Dodge:** DC 70<br>**Damage:** 3 (1d4)<br>**Attacks:** 4<br>**Ammo Die:** 6d6<br>**Range:** 20 feet | **Size:** Small<br>**Type:** Kinetic<br>**Dual-Wield:** No<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Combustion_          |
 
 #### Special Abilities

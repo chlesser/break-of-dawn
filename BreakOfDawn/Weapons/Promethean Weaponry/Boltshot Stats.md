@@ -1,7 +1,8 @@
 ### Boltshot
 
-| **Core**                                                                                              | **Properties**                                                                                                                                      | **Special Abilities**             |
+|                                                                                                       |                                                                                                                                                     |                                   |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| **Core**                                                                                              | **Properties**                                                                                                                                      | **Special Abilities**             |
 | **Dodge:** DC 55<br>**Damage:** 9 (2d8)<br>**Attacks:** 2<br>**Ammo Die:** 3d10<br>**Range:** 30 feet | **Size:** Small<br>**Type:** Hardlight<br>**Dual-Wield:** Yes<br>**Precision Weapon:** Yes<br>**Called Shot Bonus:** +5<br>**Cover Negation:** Weak | _Alternate Fire_<br>_Shared Ammo_ |
 
 #### Special Abilities
@@ -11,8 +12,9 @@
 
 ### Boltshot (Alternate Fire)
 
-| **Core**                                                                                              | **Properties**                                                                                                                                         | **Special Abilities**    |
+|                                                                                                       |                                                                                                                                                        |                          |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| **Core**                                                                                              | **Properties**                                                                                                                                         | **Special Abilities**    |
 | **Dodge:** DC 75<br>**Damage:** 18 (4d8)<br>**Attacks:** 1<br>**Ammo Die:** 3d4<br>**Range:** 10 feet | **Size:** Small<br>**Type:** Hardlight<br>**Dual-Wield:** Yes<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Average | _Split_<br>_Shared Ammo_ |
 
 #### Special Abilities

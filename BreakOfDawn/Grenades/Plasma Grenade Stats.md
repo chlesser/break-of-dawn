@@ -1,7 +1,8 @@
 ### Plasma Grenade
 
-| **Core**                                                        | **Properties**                            | **Special Abilities** |
+|                                                                 |                                           |                       |
 | --------------------------------------------------------------- | ----------------------------------------- | --------------------- |
+| **Core**                                                        | **Properties**                            | **Special Abilities** |
 | **Dodge:** DC 50<br>**Damage:** 25 (10d4)<br>**Range:** 25 feet | **Type:** Explosive<br>**Radius:** 5 feet | _Adhesive_            |
 
 #### Special Abilities

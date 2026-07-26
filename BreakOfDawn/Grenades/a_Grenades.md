@@ -2,8 +2,9 @@
 ## Grenade Statistics
 ### Grenade Name
 
-| **Core**                                                                                                                                                       | **Properties**                                                                              | **Special Abilities** |
+|                                                                                                                                                                |                                                                                             |                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------- |
+| **Core**                                                                                                                                                       | **Properties**                                                                              | **Special Abilities** |
 | **Dodge:** The Dodge DC of attacks made with the turret.<br><br>**Damage:** The amount of damage each turret deals.<br><br>**Range:** The range of the turret. | **Type:** The damage type of a turret.<br><br>**Radius:** The size of the grenade’s radius. | _Ability_             |
 
 #### Special Abilities

@@ -1,7 +1,8 @@
 ### Mauler
 
-| **Core**                                                                                               | **Properties**                                                                                                                                    | **Special Abilities**       |
+|                                                                                                        |                                                                                                                                                   |                             |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| **Core**                                                                                               | **Properties**                                                                                                                                    | **Special Abilities**       |
 | **Dodge:** DC 70<br>**Damage:** 11 (1d20)<br>**Attacks:** 2<br>**Ammo Die:** 4d6<br>**Range:** 10 feet | **Size:** Small<br>**Type:** Kinetic<br>**Dual-Wield:** Yes<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Weak | _Split_<br>_Close-Quarters_ |
 
 #### Special Abilities

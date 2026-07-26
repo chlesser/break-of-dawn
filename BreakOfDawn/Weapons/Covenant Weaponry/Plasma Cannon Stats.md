@@ -1,7 +1,8 @@
 ### Plasma Cannon
 
-| **Core**                                                                                               | **Properties**                                                                                                                                         | **Special Abilities**    |
+|                                                                                                        |                                                                                                                                                        |                          |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| **Core**                                                                                               | **Properties**                                                                                                                                         | **Special Abilities**    |
 | **Dodge:** DC 35<br>**Damage:** 39 (7d10)<br>**Attacks:** 2<br>**Ammo Die:** 5d2<br>**Range:** 50 feet | **Size:** Massive<br>**Type:** Explosive<br>**Dual-Wield:** No<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Homing_<br>_Detonation_ |
 
 #### Special Abilities

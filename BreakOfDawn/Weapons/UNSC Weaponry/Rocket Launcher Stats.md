@@ -1,7 +1,8 @@
 ### Rocket Launcher
 
-| **Core**                                                                                                                | **Properties**                                                                                                                                         | **Special Abilities**    |
+|                                                                                                                         |                                                                                                                                                        |                          |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| **Core**                                                                                                                | **Properties**                                                                                                                                         | **Special Abilities**    |
 | **Dodge:** DC 50<br>**Damage:** 53 (5d20)<br>**Attacks:** 1<br>**Ammo Die:** 3d2<br>**Range:** 30 feet, (90 feet homed) | **Size:** Massive<br>**Type:** Explosive<br>**Dual-Wield:** No<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Homing_<br>_Detonation_ |
 
 #### Special Abilities

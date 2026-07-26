@@ -1,7 +1,8 @@
 ### Incendiary Cannon
 
-| **Core**                                                                                               | **Properties**                                                                                                                                         | **Special Abilities** |
+|                                                                                                        |                                                                                                                                                        |                       |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| **Core**                                                                                               | **Properties**                                                                                                                                         | **Special Abilities** |
 | **Dodge:** DC 45<br>**Damage:** 63 (6d20)<br>**Attacks:** 1<br>**Ammo Die:** 2d2<br>**Range:** 40 feet | **Size:** Massive<br>**Type:** Explosive<br>**Dual-Wield:** No<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Detonation_          |
 
 #### Special Abilities

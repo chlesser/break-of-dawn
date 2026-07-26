@@ -1,7 +1,8 @@
 ### Gravity Hammer
 
-| **Core**                                                                                                | **Properties**                                                                                                                                     | **Special Abilities**        |
+|                                                                                                         |                                                                                                                                                    |                              |
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| **Core**                                                                                                | **Properties**                                                                                                                                     | **Special Abilities**        |
 | **Dodge:** DC 60<br>**Damage:** 45 (10d10)<br>**Attacks:** 1<br>**Ammo Die:** 1d20<br>**Range:** 5 feet | **Size:** Large<br>**Type:** Kinetic<br>**Dual-Wield:** No<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Cleave_<br>_Faltering Blow_ |
 
 #### Special Abilities

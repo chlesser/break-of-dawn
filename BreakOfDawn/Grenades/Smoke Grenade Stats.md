@@ -1,7 +1,8 @@
 ### Smoke Grenade
 
-| **Core**                                                | **Properties**                      | **Special Abilities** |
+|                                                         |                                     |                       |
 | ------------------------------------------------------- | ----------------------------------- | --------------------- |
+| **Core**                                                | **Properties**                      | **Special Abilities** |
 | **Dodge:** N/A<br>**Damage:** N/A<br>**Range:** 35 feet | **Type:** N/A<br>**Radius:** 5 feet | _Obscure_             |
 
 #### Special Abilities

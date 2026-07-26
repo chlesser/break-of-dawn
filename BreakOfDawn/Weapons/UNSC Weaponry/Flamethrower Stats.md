@@ -1,7 +1,8 @@
 ### Flamethrower
 
-| **Core**                                                                                             | **Properties**                                                                                                                                     | **Special Abilities** |
+|                                                                                                      |                                                                                                                                                    |                       |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Core**                                                                                             | **Properties**                                                                                                                                     | **Special Abilities** |
 | **Dodge:** DC 40<br>**Damage:** 7 (2d6)<br>**Attacks:** 1<br>**Ammo Die:** 3d6<br>**Range:** 15 feet | **Size:** Large<br>**Type:** Thermal<br>**Dual-Wield:** No<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Spray_<br>_Ignite_   |
 
 #### Special Abilities

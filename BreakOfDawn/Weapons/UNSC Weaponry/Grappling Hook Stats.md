@@ -1,7 +1,8 @@
 ### Grappling Hook
 
-| **Core**                                                                                         | **Properties**                                                                                                                                 | **Special Abilities**                |
+|                                                                                                  |                                                                                                                                                |                                      |
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| **Core**                                                                                         | **Properties**                                                                                                                                 | **Special Abilities**                |
 | **Dodge:** DC 60<br>**Damage:** N/A<br>**Attacks:** 1<br>**Ammo Die:** N/A<br>**Range:** 40 feet | **Size:** Small<br>**Type:** N/A<br>**Dual-Wield:** No<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Attach_<br>_Approach_<br>_Built-in_ |
 
 #### Special Abilities

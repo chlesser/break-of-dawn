@@ -1,7 +1,8 @@
 ### Incendiary Grenade
 
-| **Core**                                                        | **Properties**                           | **Special Abilities** |
+|                                                                 |                                          |                       |
 | --------------------------------------------------------------- | ---------------------------------------- | --------------------- |
+| **Core**                                                        | **Properties**                           | **Special Abilities** |
 | **Dodge:** DC 35<br>**Damage:** 11 (2d10)<br>**Range:** 25 feet | **Type:** Thermal<br>**Radius:** 10 feet | _Ignite_              |
 
 #### Special Abilities

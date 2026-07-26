@@ -1,7 +1,8 @@
 ### Plasma Pistol
 
-| **Core**                                                                                              | **Properties**                                                                                                                                     | **Special Abilities**             |
+|                                                                                                       |                                                                                                                                                    |                                   |
 | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| **Core**                                                                                              | **Properties**                                                                                                                                     | **Special Abilities**             |
 | **Dodge:** DC 35<br>**Damage:** 5 (2d4)<br>**Attacks:** 2<br>**Ammo Die:** 3d8 <br>**Range:** 30 feet | **Size:** Small<br>**Type:** Plasma<br>**Dual-Wield:** Yes<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _Alternate Fire_<br>_Shared Ammo_ |
 
 #### Special Abilities
@@ -11,8 +12,9 @@
 
 ### Plasma Pistol (Alternate Fire)
 
-| **Core**                                                                                              | **Properties**                                                                                                                                     | **Special Abilities**         |
+|                                                                                                       |                                                                                                                                                    |                               |
 | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| **Core**                                                                                              | **Properties**                                                                                                                                     | **Special Abilities**         |
 | **Dodge:** DC 60<br>**Damage:** 21 (6d6)<br>**Attacks:** 2<br>**Ammo Die:** 3d2<br>**Range:** 50 feet | **Size:** Small<br>**Type:** Plasma<br>**Dual-Wield:** Yes<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | _EMP Blast_ <br>_Shared Ammo_ |
 
 #### Special Abilities
