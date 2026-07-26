@@ -1,4 +1,3 @@
-
 ## Knight
 ![[Knight (Standard)]]
 ![[Knight (Lancer)]]

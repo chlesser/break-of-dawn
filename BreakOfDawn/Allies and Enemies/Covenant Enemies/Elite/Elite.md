@@ -1,3 +1,4 @@
+## Elite
 ![[Elite (Minor)]]
 ![[Elite (Major)]]
 ![[Elite (Ultra)]]
