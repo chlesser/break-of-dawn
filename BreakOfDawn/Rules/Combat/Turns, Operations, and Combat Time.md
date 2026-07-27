@@ -122,13 +122,13 @@ Certain weapons can be dual wielded. If a creature has a weapon in each hand, th
 #### Nonlethal Damage  
 To administer non-lethal damage, you must make a called shot against either the arms or legs when using a weapon. When making a melee attack, you can choose to make the damage nonlethal without having to make any called shots. When a creature is reduced to 0 health with nonlethal damage they are exposed to the Unconscious effect instead of being killed.
 
-#### Cover  
+### Cover  
 The Game Master might decide that some barriers, such as a wall, are penetrable by bullets or certain weapons. All barriers will fall under 1 of 7 categories of cover. Each level of cover has a threshold of health for each 10 foot segment. When a segment of cover’s health is entirely depleted, it is destroyed, and becomes difficult terrain occupying the same space as where the cover previously stood, ending all benefits to creatures standing behind the segment of cover. 
 
 It is possible for attacks to penetrate cover to hit the creatures behind. A creature attempting to shoot through cover must reduce the damage of their attack by a certain number of dice depending on the level of cover, and the target creature receives a bonus to dodge rolls made against the attacks. In this case, the source of cover takes an amount of damage equal to half of the damage rolled (rounded down) after the damage die reduction. If the damage die reduction exceeds the amount of damage die the weapon deals on a standard attack, then the weapon cannot penetrate the cover or target creatures behind it. Alternatively, a creature may choose to attack the segment of cover directly, dealing full damage to the cover without any dodge roll required. 
 
-**Flimsy (1-50 Health):**  
-	*Target Dodge:* \+5  
+**Flimsy (1-50 Health):**
+Target Dodge: +5
 *Damage Die Reduction:* N/A  
 	*Examples:* Light foliage, cloth   
 **Weak (51-100 Health):**   
@@ -136,25 +136,26 @@ It is possible for attacks to penetrate cover to hit the creatures behind. A cre
 *Damage Die Reduction:* 1  
 	*Examples:* Glass, brittle wood  
 **Average (101-150 Health):**   
-*Target Dodge:* \+15  
+*Target Dodge:* +15  
 *Damage Die Reduction:* 2  
 *Examples:* Tile, plaster  
 **Sturdy (151-225 Health):**   
-*Target Dodge:* \+20  
+*Target Dodge:* +20  
 *Damage Die Reduction:* 3  
 *Examples:* Brick, cement  
 **Solid (226-300 Health):**   
-*Target Dodge:* \+25  
+*Target Dodge:* +25  
 *Damage Die Reduction:* 4  
 	*Examples:* Stone, concrete  
 **Strong (301-450 Health):**  
-*Target Dodge:* \+30  
+*Target Dodge:* +30  
 *Damage Die Reduction:* 5  
  	*Examples:* Metal, ore  
 **Unassailable (451+ Health):**   
 *Target Dodge:* Cannot be targeted with attacks  
 *Damage Die Reduction:* N/A  
 	*Examples:* Reinforced metal
+
 
 #### Downtime  
 Downtime is any period of time no shorter than 6 hours spent by the Fireteam when they are not in immediate danger (such as combat) and not performing strenuous physical activity, such as intense labor. After a period of downtime, all creatures regain all health and shields previously lost, as well as recharging any abilities with limited usage, such as Active Camo or Armor Lock

@@ -7,9 +7,6 @@
 | **Innate Skills**                                                                                                                                                | **Passive Skills**                                                                                                                             | **Operational Skills**                                                                                                                                                |
 | _Charge_<br>_Grab_<br>_Frenzy_                                                                                                                                   | N/A                                                                                                                                            | N/A                                                                                                                                                                   |
 
-^f04bb2
-
-
 #### Skills
 _(Innate)_ **Charge:** As a Secondary and Tertiary Operations the Brute (Minor) can move half of their movement speed (rounded down) and gain an additional +15 Dodge bonus against Chance Attacks.
 
