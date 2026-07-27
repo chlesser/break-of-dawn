@@ -1,3 +1,5 @@
+## Classes
+
 | Class             | Expertises            | Superiorities        | Description                                                                                                                                                   |
 | ----------------- | --------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Assassin]]      | Stealth, Agility      | Tracking, Charisma   | A stealth based fighter that uses close-quarters combat to eliminate enemies from the shadows.                                                                |
