@@ -1,3 +1,4 @@
+
 ## Demolitionist
 As command gives the order for the enemy base to be blown to smithereens, the Demolitionist happily presses the detonation button, watching the massive explosion in the distance. Seeing a survivor from the explosion, the spartan takes aim for a second, and launches a mortar shell from their shoulder, eliminating the last traces of their attack.
 
@@ -41,7 +42,7 @@ Grenade Capacity: You have 10 grenade slots
 **Interaction Points:** You gain \+10 Interaction Points.
 
 ### Lieutenant Colonel
-**Repel:** As a reactionary Operation once every two turns, you may repel a single attack from a medium or smaller weapon that targets you or anything within 5 feet of you. The attacking creature then becomes the target of the attack but that attack’s Dodge DC is decreased by \-15.  
+**Repel:** As a Reactive Operation once every two turns, you may repel a single attack from a medium or smaller weapon that targets you or anything within 5 feet of you. The attacking creature then becomes the target of the attack but that attack’s Dodge DC is decreased by \-15.  
 **Portable Energy Shield:** You gain an additional 80 shields, however these shields do not affect your total shield health or the amount of shields regenerated per turn of not taking damage. Instead, these additional shields generate a portable energy shield emanating around you. If the energy shield has between 1 and 30 shields, it grants Weak cover, if it has between 31 and 60 shields it grants Average cover, and if it has between 61 and 80 shields it grants Sturdy cover. If an attack would otherwise hit but is dodged as a result of the bonus provided from the portable energy shield’s cover, the shield takes the full damage of the attack. As a Secondary Operation, you can place this cover down anywhere within 5 feet. When deployed in this way it provides cover in a 15 foot line reaching 10 feet high. Any creatures behind this cover gain its benefits and can make weapon attacks through the shields with no penalty. As a Tertiary Operation, you may also pick the portable energy shield back up.  
 **Anti-Gravity Armor:** Once per downtime, expending no Operations, you can activate a series of anti-gravity thrusters for up to ten minutes. These thrusters limit your speed to your base speed \-5 feet, however you can now walk on any surface, such as walls and ceilings. Additionally, difficult terrain does not limit your movement speed and you cannot take fall damage while this is active.
 
