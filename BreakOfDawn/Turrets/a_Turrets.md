@@ -1,4 +1,4 @@
-## Turrets
+# Turrets
 Turrets are similar to guns, and can save a desperate fireteam when in need. Turrets are larger projectile weapons that are mounted on a fixed base, but can be detached by a suitably strong combatant, such as a Spartan. They follow the same rules as other weapons, with a few unique traits listed below. 
 
 ### Turret Name

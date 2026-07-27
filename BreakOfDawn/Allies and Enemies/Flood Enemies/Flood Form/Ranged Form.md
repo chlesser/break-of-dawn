@@ -23,3 +23,5 @@ _(Passive)_ **Unique Weapon:** The Ranged Form uses the Spikes attached to its b
 _(Operational)_ **Spring:** Instead of moving normally, the Ranged Form can jump up to 30 feet in any direction from a standing position.
 
 _(Operational)_ **Clobber:** The Ranged Form may spend a Secondary Operation to make a melee attack.
+
+![[Spikes (Ranged Form)]]
