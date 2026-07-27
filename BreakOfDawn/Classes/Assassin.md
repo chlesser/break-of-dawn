@@ -10,8 +10,8 @@ Size: Medium
 Recommended Starting Weaponry: A Shotgun and a Magnum Pistol  
 Superiorities: Tracking, Charisma  
 Expertises: Stealth, Agility  
-Gun Carrying Capacity: You have 3 gun slots  
-Grenade Capacity: You have 5 grenade slots
+Gun Slots: 3  
+Grenade Slots: 5
 
 ### Starting Abilities
 **Assassinate**. When you make a melee attack against a creature exposed to the Surprised effect, you may add an additional \+22 (4d10) kinetic damage.  

@@ -10,8 +10,8 @@ Size: Medium
 Recommended Starting Weaponry: Chaingun  
 Superiorities: Firepower, Charisma  
 Expertises: Fortitude, Lifting  
-Gun Carrying Capacity: You have 5 gun slots  
-Grenade Capacity: You have 8 grenade slots
+Gun Slots: 5  
+Grenade Slots: 8
 
 ### Starting Ability
 *Charge:* Twice per downtime, as a Secondary Operation and Tertiary Operation you can choose to charge 1 target. When you charge you gain an additional 10 feet of movement speed. You then must spend at least 10 feet of movement moving toward an enemy, but do not provoke any chance attacks. If you end your movement within 5 feet of a target, the target must then make a Dodge DC 60 or take 28 (8d6) kinetic damage and be exposed to the Fallen effect. 

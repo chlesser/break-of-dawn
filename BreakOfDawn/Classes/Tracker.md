@@ -10,8 +10,8 @@ Size: Medium
 Recommended Starting Weaponry: DMR, Magnum Pistol  
 Superiorities: Medicinal, Detection  
 Expertises: Tracking, Stealth  
-Gun Carrying Capacity: You have 2 gun slots  
-Grenade Capacity: You have 5 grenade slots
+Gun Slots: 2  
+Grenade Slots: 5
 
 ### Starting Ability
 *Scout.* Your armor is infused with a small active camo module. Once per downtime, as a Primary Operation, you can become exposed to the Invisible effect, which lasts for up to 10 minutes, or until you deactivate it as a Secondary Operation, make a weapon attack or make a combat maneuver.

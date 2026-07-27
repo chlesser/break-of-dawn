@@ -10,8 +10,8 @@ Size: Medium
 Recommended Starting Weaponry: 2 Magnum Pistols  
 Superiorities: History, Medicinal  
 Expertises: Handling, Tech  
-Gun Carrying Capacity: You have 2 gun slots  
-Grenade Capacity: You have 4 grenade slots
+Gun Slots: 2  
+Grenade Slots: 4
 
 ### Starting Ability
 *Shield Recharge.* 5 times per downtime, you can use your Secondary Operation to recharge the shields of an ally within 30 ft of you and restore their shields by half (rounded down). You can restore your own shields in this way too.

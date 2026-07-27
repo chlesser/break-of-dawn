@@ -10,8 +10,8 @@ Size: Medium
 Recommended Starting Weaponry: Battle Rifle, Magnum Pistol  
 Superiorities: Firepower, History  
 Expertises: Tactics, Charisma  
-Gun Carrying Capacity: You have 3 gun slots  
-Grenade Capacity: You have 6 grenade slots
+Gun Slots: 3  
+Grenade Slots: 6
 
 ### Starting Ability
 *Command*. Twice per downtime, as a Secondary Operation, you may command an ally to take a Primary Operation at the same time that you take yours. 

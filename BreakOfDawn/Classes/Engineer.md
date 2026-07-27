@@ -10,8 +10,8 @@ Size: Medium
 Recommended Starting Weaponry: Two SMGs  
 Superiorities: Tech, Handling  
 Expertises: Crafting, Firepower  
-Gun Carrying Capacity: You have 3 gun slots  
-Grenade Capacity: You have 6 grenade slots
+Gun Slots: 3  
+Grenade Slots: 6
 
 ### Starting Ability
 *Turret.* As a Primary Operation you can deploy a chaingun turret anywhere within 5 feet that operates on its own, taking its turn directly after yours. This turret has 75 health with a dodge penalty of \-30. As a Primary Operation you may quickly repair your turret by making a Crafting interaction with a DC equal to the total amount of health lost by the turret, restoring half of the turret’s lost health on a success (rounded down), provided you are within 5 feet of your turret. When it is not in use, it regains 5 health per minute. If the turret reaches 0 health, you must spend an uninterrupted hour to repair the turret, restoring it to maximum health, or crafting a new one if it was lost. You may have no more than 1 turret at a time. While within 5 feet of the turret, you may deactivate and store the turret as a Secondary Operation, placing it on the Spartan’s back where it takes up no inventory space.

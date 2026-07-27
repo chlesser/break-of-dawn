@@ -10,8 +10,8 @@ Size: Medium
 Recommended Starting Weaponry: An Assault Rifle and a Magnum Pistol  
 Superiorities: Fortitude, Handling  
 Expertises: Firepower, Agility  
-Gun Carrying Capacity: You have 3 gun slots  
-Grenade Capacity: You have 6 grenade slots
+Gun Slots: 3  
+Grenade Slots: 6
 
 ### Starting Ability
 *Power Surge*: Twice per downtime, on your turn you can choose to take an additional Primary Operation. 

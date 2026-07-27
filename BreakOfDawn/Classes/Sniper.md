@@ -10,8 +10,8 @@ Size: Medium
 Recommended Starting Weaponry: Sniper Rifle, Magnum Pistol  
 Superiorities: Agility, Tech  
 Expertises: Detection, Stealth  
-Gun Carrying Capacity: You have 3 gun slots  
-Grenade Capacity: You have 5 grenade slots
+Gun Slots: 3  
+Grenade Slots: 5
 
 ### Starting Ability:
 *Precision Aim.* 5 times per downtime, when you make a ranged weapon attack, you may choose to use this ability to instantly kill an enemy that has up to 75 total health & shields remaining if the attack hits them. You must choose to do so before you make the attack.

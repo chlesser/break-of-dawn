@@ -1,5 +1,5 @@
 ## Rank
-As you complete missions, your rank will go up. As you climb the ranks, you will gain access to new abilities and techniques that will make your Spartan more efficient in and out of combat. These experiences will fundamentally change your Spartan, making them faster, stronger, and smarter. Every time you rank up you are given a selection of new abilities to choose from and may choose one ability from the list. (except for the starting ability which is given upon choosing the class). These ranks and their unlocks are as follows:
+As you complete missions, your rank will go up. As you climb the ranks, you will gain access to new abilities and techniques that will make your Spartan more efficient in and out of combat. These experiences will fundamentally change your Spartan, making them faster, stronger, and smarter. These ranks and their unlocks are as follows:
 
 **2nd Lieutenant:** Starting ability, Stat increase  
 **1st Lieutenant:** General equipment/abilities  
@@ -13,6 +13,9 @@ As you complete missions, your rank will go up. As you climb the ranks, you will
 **Commander:** Stat increase  
 **Fleet-Commander:** General equipment/abilities  
 **Hyper-Lethal Vector:** Superiority/expertise increase, Special equipment/abilities
+
+#### Rank Abilities
+Every time you rank up you are given a selection of new abilities to choose from and may choose one ability from the list. (except for the starting ability which is given upon choosing the class).
 
 #### Ability Exchange  
 Every time your increases, you are given the choice of switching one of your abilities. Each time your rank increases, you may select one ability and exchange it for another ability of the same rank within your class.

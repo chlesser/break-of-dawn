@@ -37,10 +37,12 @@ Spartan Info Sheet……………………………………………………�
 # Combat
 ![[Combat]]
 
+
 ![[Effects]]
 
 ![[Battlefield Externalities]]
-
+# Character Creation Guide
+![[Character Creation Guide]]
 # Fireteam Members
 This is a list of all the playable character classes in Break of Dawn. This includes all of their abilities, health, starting weapons, and other attributes.
 ![[a_Classes]]

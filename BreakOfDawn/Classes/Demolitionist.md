@@ -11,8 +11,8 @@ Size: Medium
 Recommended Starting Weaponry: Grenade Launcher, Magnum Pistol  
 Superiorities: Tech, Lifting  
 Expertises: Firepower, Demolition  
-Gun Carrying Capacity: You have 4 gun slots  
-Grenade Capacity: You have 10 grenade slots
+Gun Slots: 4  
+Grenade Slots: 10
 
 ### Starting Ability
 *Mortar.* Attached to your shoulder is a small mortar. Once per minute you can fire a shell as a Secondary Operation, with a range of 75 feet, dealing 5d8 Explosive damage, with Dodge DC 60 in a 10 foot radius. Creatures within the explosion radius that succeed on the dodge roll still take half damage (rounded down).
