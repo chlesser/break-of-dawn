@@ -14,5 +14,8 @@ As you complete missions, your rank will go up. As you climb the ranks, you will
 **Fleet-Commander:** General equipment/abilities  
 **Hyper-Lethal Vector:** Superiority/expertise increase, Special equipment/abilities
 
-Ability Exchange  
-Every time you rank up you are given the choice of switching one of your abilities. Each time your rank increases, you may select one ability and exchange it for another ability of the same rank within your class.
+#### Ability Exchange  
+Every time your increases, you are given the choice of switching one of your abilities. Each time your rank increases, you may select one ability and exchange it for another ability of the same rank within your class.
+
+#### Health on Rank Up
+Every time your rank increases, you will gain a small amount of health dependent on your class. You gain this health for every rank except the starting rank of Second Lieutenant, where you receive the base amount of health for the class.
