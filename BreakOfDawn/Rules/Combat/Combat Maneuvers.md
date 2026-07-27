@@ -35,6 +35,8 @@ In combat, creatures are capable of making quick maneuvers in the heat of battle
 
 ![[Move]]
 
+![[Peek Fire]]
+
 ![[Prepare]]
 
 ![[Prime]]
@@ -43,7 +45,9 @@ In combat, creatures are capable of making quick maneuvers in the heat of battle
 
 ![[Quick Footed]]
 
-![[Ready Up]]
+![[Take Caution]]
+
+![[Ready]]
 
 ![[Recover]]
 

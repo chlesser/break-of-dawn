@@ -3,7 +3,7 @@
 [[Dash]]
 [[Ground Pound]]
 [[Hide]]
-[[Ready Up]]
+[[Take Caution]]
 [[Throw]]
 ### Secondary Operation
 [[Draw Fire]]
@@ -13,6 +13,7 @@
 ### Tertiary Operation
 [[Identify]]
 [[Move]]
+[[Peek Fire]]
 [[Survey]]
 [[Switch]]
 ### Primary, Secondary Operation
@@ -34,3 +35,4 @@
 [[Fortify]]
 [[Grapple]]
 [[Prime]]
+[[Ready]]
