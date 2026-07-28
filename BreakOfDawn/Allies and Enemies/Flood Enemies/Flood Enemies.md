@@ -1,4 +1,4 @@
 # Flood Enemies
-![[a_Flood Form]]
+![[a_Pure Form]]
 ![[a_Infected Form]]
 ![[a_Gravemind]]

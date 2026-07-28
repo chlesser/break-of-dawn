@@ -1,4 +1,4 @@
-## Flood Form
+## Pure Form
 ![[Infection Form]]
 ![[Carrier Form]]
 ![[Stalker Form]]

@@ -14,4 +14,4 @@ _(Passive)_ **Virus:** When a target is hit by a melee attack from the Carrier F
 
 _(Passive)_ **Flammable:** Carrier Forms take double damage from Thermal damage.
 
-_(Operational)_ **Carrier:** As a Primary Operation, a Carrier Form can choose to burst open, killing itself and releasing 7 (2d6) Infection Forms in the nearest unoccupied spaces. Any creature within 5 feet must make a Dodge DC 65 or take 5d8 Explosive damage. This ability also triggers instantly when the Carrier Form reaches 0 health.****
+_(Operational)_ **Carrier:** As a Primary Operation, a Carrier Form can choose to burst open, killing itself and releasing 7 (2d6) Infection Forms in the nearest unoccupied spaces. Any creature within 5 feet must make a Dodge DC 65 or take 5d8 Explosive damage. This ability also triggers instantly when the Carrier Form reaches 0 health.
