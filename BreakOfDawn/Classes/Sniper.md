@@ -71,7 +71,7 @@ Headshots: Add an additional \+3 damage die.
 **Small Weapons Expert:** After using your Primary Operation, you can switch to a single small weapon expending a Secondary and Tertiary Operation. You may then make up to 3 attacks with that weapon, however it cannot exceed the maximum number of times that weapon can be fired in a turn as described in its statistics. You then have the option to swap your weapon again using no Operation.
 
 ### Commander:  
-**Heart of a Lion:** Add \+18 to base health, and at the start of each of your turns you regain 5 health as long as you are conscious.  
+**Heart of a Lion:** Add \+18 to base health, and at the start of each of your turns if you are below half health (rounded down), you regain 5 health as long as you are conscious. 
 **Shield of the People:** Add \+15 to your base shields, and once per downtime, you can bring yourself back to full shields as no Operation.  
 **Loose Cannon:** Add \+3 grenade slots, and the range of all grenades you throw is doubled.  
 **Artillery Expert:** Add \+3 gun slots, and you may now take the Change Weapons Operation at will on your turn without having to spend a Tertiary Operation.  

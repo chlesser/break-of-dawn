@@ -68,7 +68,7 @@ Grenade Slots: 6
 **Target:** As a Secondary Operation you may target one creature of your choice, and all attacks against that target do an additional 1d6 damage, and the Dodge DC of these attacks increases by \+5. You may switch which creature is being targeted as a Secondary Operation. 
 
 ### Commander
-**Heart of a Lion:** Add \+35 to base health, and at the start of each of your turns you regain 5 health as long as you are conscious.  
+**Heart of a Lion:** Add \+35 to base health, and at the start of each of your turns if you are below half health (rounded down), you regain 5 health as long as you are conscious.  
 **Shield of the People:** Add \+25 to your base shields, and once per downtime, you can bring yourself back to full shields as a Tertiary Operation.  
 **Loose Cannon:** Add \+3 grenade slots, and the range of all grenades you throw is doubled.  
 **Artillery Expert:** Add \+3 gun slots, and you may now take the Change Weapons Operation at will on your turn without having to spend a Tertiary Operation.  

@@ -73,7 +73,7 @@ Grenade Slots: 4
 **The Tech Giveth and the Tech Taketh:** Your Shield Recharge ability now fully restores the shields of the ally it targets, and in addition, when you use this ability, you may choose one enemy within 30 feet of you and reduce their current shields by \-3d10.
 
 ### Commander
-**Heart of a Lion:** Add \+30 to base health, and at the start of each of your turns you regain 5 health as long as you are conscious.  
+**Heart of a Lion:** Add \+30 to base health, and at the start of each of your turns if you are below half health (rounded down), you regain 5 health as long as you are conscious. 
 **Shield of the People:** Add \+25 to your base shields, and once per downtime, you can bring yourself back to full shields as no Operation.  
 **Loose Cannon:** Add \+3 grenade slots, and the range of all grenades you throw is doubled.  
 **Artillery Expert:** Add \+3 gun slots, and you may now take the Change Weapons Operation at will on your turn without having to spend a Tertiary Operation.  

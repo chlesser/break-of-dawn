@@ -71,7 +71,7 @@ Grenade Slots: 10
 **Vehicle Buster:** When attacking a vehicle with explosive weapons, add \+10 to your weapon’s Dodge DC. If the vehicle fails the dodge by 20 or more, you may roll twice the weapon’s base amount of damage dice.
 
 ### Commander
-**Heart of a Lion:** Add \+40 to base health, and at the start of each of your turns you regain 5 health as long as you are conscious.  
+**Heart of a Lion:** Add \+40 to base health, and at the start of each of your turns if you are below half health (rounded down), you regain 5 health as long as you are conscious. 
 **Shield of the People:** Add \+33 to your base shields, and once per downtime, you can bring yourself back to full shields as a Tertiary Operation.  
 **Loose Cannon:** Add \+3 grenade slots, and the range of all grenades you throw is doubled.  
 **Artillery Expert:** Add \+3 gun slots, and you may now take the Change Weapons Operation at will on your turn without having to spend a Tertiary Operation.  
