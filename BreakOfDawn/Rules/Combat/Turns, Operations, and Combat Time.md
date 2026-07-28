@@ -117,7 +117,7 @@ Some areas may be deemed as difficult terrain by the GM. In these areas, all cre
 For a creature to pick up any dropped object, such as a weapon that has been knocked out of their hand or a small item that has been discarded, they must take the Interact Operation, which requires them to spend their Tertiary Operation to pick the item up.
 
 #### Dual Wielding  
-Certain weapons can be dual wielded. If a creature has a weapon in each hand, they can choose to make one additional attack as a Secondary Operation using the weapon in their second hand while still making the normal amount of attacks with the weapon in their first hand. A weapon can only be dual wielded if it has the “Dual Wielding” trait listed in its statistics.
+Certain weapons can be dual wielded. If a creature has a weapon in each hand, they can choose to make one additional attack as a Secondary Operation using the weapon in their second hand while still making the normal amount of attacks with the weapon in their first hand. A weapon can only be dual wielded if it has the “Dual Wield” trait listed in its statistics.
 
 #### Nonlethal Damage  
 To administer non-lethal damage, you must make a called shot against either the arms or legs when using a weapon. When making a melee attack, you can choose to make the damage nonlethal without having to make any called shots. When a creature is reduced to 0 health with nonlethal damage they are exposed to the Unconscious effect instead of being killed.
@@ -125,6 +125,9 @@ To administer non-lethal damage, you must make a called shot against either the 
 ### Cover  
 The Game Master might decide that some barriers, such as a wall, are penetrable by bullets or certain weapons. All barriers will fall under 1 of 7 categories of cover. Each level of cover has a threshold of health for each 10 foot segment. When a segment of cover’s health is entirely depleted, it is destroyed, and becomes difficult terrain occupying the same space as where the cover previously stood, ending all benefits to creatures standing behind the segment of cover. 
 
+When behind cover if you would like to shoot a target the [[Peek Fire]] maneuver must be taken. Otherwise your attacks will shoot through the cover you are behind and your target will gain the benefits of this cover. 
+ 
+ 
 It is possible for attacks to penetrate cover to hit the creatures behind. A creature attempting to shoot through cover must reduce the damage of their attack by a certain number of dice depending on the level of cover, and the target creature receives a bonus to dodge rolls made against the attacks. In this case, the source of cover takes an amount of damage equal to half of the damage rolled (rounded down) after the damage die reduction. If the damage die reduction exceeds the amount of damage die the weapon deals on a standard attack, then the weapon cannot penetrate the cover or target creatures behind it. Alternatively, a creature may choose to attack the segment of cover directly, dealing full damage to the cover without any dodge roll required. 
 
 **Flimsy (1-50 Health):**
