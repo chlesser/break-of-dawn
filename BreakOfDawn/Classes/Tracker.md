@@ -68,7 +68,7 @@ Grenade Slots: 5
 **Bear Trap:** You have 2 bear traps that can be planted or buried anywhere you wish. Any creature of size large or smaller that steps on the trap, provided that there is no more than a foot of any material covering it, must succeed on a Dodge DC 95 or take 5d8 kinetic damage and be exposed to the Incapacitated effect. To end this effect, the creature must use a Primary Operation to attempt a DC 55 Lifting interaction to disarm the trap, or deal 20 damage to it.
 
 ### Commander:  
-**Heart of a Lion:** Add \+23 to base health, and at the start of each of your turns you regain 5 health as long as you are conscious.  
+**Heart of a Lion:** Add +23 to base health, and at the start of each of your turns if you are below half health (rounded down), you regain 5 health as long as you are conscious. 
 **Shield of the People:** Add \+19 to your base shields, and once per downtime, you can bring yourself back to full shields as no Operation.  
 **Loose Cannon:** Add \+3 grenade slots, and the range of all grenades you throw is doubled.  
 **Artillery Expert:** Add \+3 gun slots, and you may now take the Change Weapons Operation at will on your turn without having to spend a Tertiary Operation.  

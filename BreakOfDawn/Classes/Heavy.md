@@ -67,7 +67,7 @@ Grenade Slots: 8
 **Battering Ram:** Add an additional \+4d6 damage die to your *Charge* ability and gain 2 more uses of this ability per downtime. In addition, you have become an expert at dealing with multiple targets. You can now make your *Charge* attack against a second target within 5 feet of your initial target.
 
 ### Commander
-**Heart of a Lion:** Add \+60 to base health, and at the start of each of your turns you regain 5 health as long as you are conscious.  
+**Heart of a Lion:** Add \+60 to base health, and at the start of each of your turns if you are below half health (rounded down), you regain 5 health as long as you are conscious.  
 **Shield of the People:** Add \+38 to your base shields, and once per downtime, you can bring yourself back to full shields as a Tertiary Operation.  
 **Loose Cannon:** Add \+3 grenade slots, and the range of all grenades you throw is doubled.  
 **Artillery Expert:** Add \+3 gun slots, and you may now take the Change Weapons Operation at will on your turn without having to spend a Tertiary Operation.  
