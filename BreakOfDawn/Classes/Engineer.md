@@ -48,10 +48,10 @@ Grenade Slots: 6
 ### Colonel Major
 **Weapon Upgrade:** Every downtime, you may choose up to 3 weapons to boost their weapon attacks. Every attack dealt by these weapons deals an additional +1d8 of the weapon’s damage type, and the weapon’s Dodge DC increases by +5. These effects last until the beginning of the next downtime.
 **Improved Turret:** When you deploy your turret, you may now choose whether it takes the form of a chaingun, gauss, or rocket turret. The chosen type can be changed when you next deploy your turret. In addition, your turret now has 100 base health.   
-**Shoulder Turret:** As a Tertiary Operation, you may activate a shoulder-mounted turret. The turret can make up to 2 attacks with a Dodge DC 65, and deals 14 (3d8) kinetic damage on a hit. You may stow the shoulder-mounted turret as a Tertiary Operation.
+**Shoulder Turret:** As a Tertiary Operation, you may activate a shoulder-mounted turret. The turret can make up to 2 attacks with a Dodge DC 65 at a range of up to 40ft, and deals 14 (3d8) kinetic damage on a hit. You may stow the shoulder-mounted turret as a Tertiary Operation.
 
 ### Field Marshal
-**Hearty:** Add \+22 to base health.  
+**Hearty:** Add +22 to base health.  
 **Improved Shields:** Add \+18 to base shields.  
 **Extended Grenade Belt:** Add \+2 grenade slots.  
 **Extended Hip Holster:** Add \+2 gun slots.  
@@ -64,7 +64,7 @@ Grenade Slots: 6
 
 ### General Major
 **Vehicle Rewire:** Twice per downtime, you can use Primary Operation to rewire a vehicle's hardware to rig it to explode at a time of your choosing. The vehicle must be within 5 feet, but after rewiring the vehicle, you may choose to detonate it anytime between 1-5 rounds after rewiring it. Until the designated time of explosion, the vehicle operates as normal.   
-**Attachment Crafting:** Your expertise in engineering lets you create up to 5 gun attachment slots. To do so you must spend an hour crafting per slot. Slots are determined as follows:
+**Attachment Crafting:** Your expertise in engineering lets you create up to 5 weapon attachment slots. To do so you must spend an hour crafting per slot. Slots are determined as follows:
 
 - Tier I: 1 slot  
 - Tier II: 2 slots  
