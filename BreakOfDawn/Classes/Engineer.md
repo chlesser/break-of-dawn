@@ -46,7 +46,8 @@ Grenade Slots: 6
 **Doctor:** When using a medpac, the health regained is now equal to the amount rolled on a Medicinal interaction without halving it, adding all bonuses.
 
 ### Colonel Major
-**Weapon Creation:** You can spend an uninterrupted hour to create up to 3 gun slots worth of UNSC weaponry. These weapons can be changed out any time you spend an hour doing so. **Improved Turret:** When you deploy your turret, you may now choose whether it takes the form of a chaingun, gauss, or rocket turret. The chosen type can be changed when you next deploy your turret. In addition, your turret now has 100 base health.   
+**Weapon Creation:** You can spend an uninterrupted hour to create up to 3 gun slots worth of UNSC weaponry. These weapons can be changed out any time you spend an hour doing so. 
+**Improved Turret:** When you deploy your turret, you may now choose whether it takes the form of a chaingun, gauss, or rocket turret. The chosen type can be changed when you next deploy your turret. In addition, your turret now has 100 base health.   
 **Shoulder Turret:** As a Secondary Operation, you may activate a shoulder-mounted turret. As a Tertiary Operation, you may have the turret make up to 2 attacks. The turret has Dodge DC 60, and deals 9 (2d8)  kinetic damage on a hit. This turret lasts for up to a minute and can be ended early as a Tertiary Operation. This can be done up to twice per downtime.
 
 ### Field Marshal

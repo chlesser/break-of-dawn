@@ -3,7 +3,9 @@
 Any creature exposed to the Alert effect has a \+25 to dodges and Detection interactions.  
 #### Blinded
 Any creature exposed to the Blinded effect is unable to see and as a result suffers
-a -30 penalty to all dodge rolls as well as a -15 penalty to the Dodge DCs of any attacks they make while blinded. Additionally, if the creature moves more than 10 feet in a single turn while blinded, it must succeed on a DC 45 Agility interaction or become exposed to the Fallen effect.   
+a -30 penalty to all dodge rolls as well as a -15 penalty to the Dodge DCs of any attacks they make while blinded. Additionally, if the creature moves more than 10 feet in a single turn while blinded, it must succeed on a DC 45 Agility interaction or become exposed to the Fallen effect. 
+#### Burned
+Any creature exposed to the Burned effect takes damage equal to their *burn value* at the start of their turn. The creature can take a Primary Operation to extinguish themselves, and set their *burn value* to 0.
 #### Deafened 
 Any creature exposed to this cannot hear and automatically fails any actions that rely on hearing.   
 #### Fallen 

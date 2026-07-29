@@ -6,7 +6,7 @@ Select 1 of the 9 classes available. This class will help determine what your Sp
 
 #### Step 2: Choose Your Weapons
 
-As part of your class statistics, you will have a number of gun and grenade slots. Select an amount of [[a_UNSC Weaponry|UNSC Weapons]] allowed by your number of gun slots and any combination of either Frag or Smoke grenades allowed by your number of grenade slots.
+As part of your class statistics, you will have a number of gun and grenade slots. Select an amount of [[a_UNSC Weaponry|UNSC Weapons]] allowed by your number of gun slots and any combination of either [[Fragmentation Grenade Stats|Frag]], [[Incendiary Grenade Stats|Incendiary]], or [[Smoke Grenade Stats|Smoke]] grenades allowed by your number of grenade slots.
 
 #### Step 3: Build Your Origin
 
