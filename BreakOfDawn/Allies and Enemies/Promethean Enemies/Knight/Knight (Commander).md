@@ -19,4 +19,4 @@
 
 *(Operational)* **Autosentry:** The Knight (Commander) can spend a Primary Operation to deploy an autosentry in an unoccupied space anywhere within 5 feet of them. However, when doing so the Knight (Commander) loses all movement speed for that turn. The autosentry’s stat block is below.
 
-![[Autosentry]]
+![[Autosentry (Knight Weapon)]]

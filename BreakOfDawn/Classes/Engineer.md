@@ -46,9 +46,9 @@ Grenade Slots: 6
 **Doctor:** When using a medpac, the health regained is now equal to the amount rolled on a Medicinal interaction without halving it, adding all bonuses.
 
 ### Colonel Major
-**Weapon Creation:** You can spend an uninterrupted hour to create up to 3 gun slots worth of UNSC weaponry. These weapons can be changed out any time you spend an hour doing so. 
+**Weapon Upgrade:** Every downtime, you may choose up to 3 weapons to boost their weapon attacks. Every attack dealt by these weapons deals an additional +1d8 of the weapon’s damage type, and the weapon’s Dodge DC increases by +5. These effects last until the beginning of the next downtime.
 **Improved Turret:** When you deploy your turret, you may now choose whether it takes the form of a chaingun, gauss, or rocket turret. The chosen type can be changed when you next deploy your turret. In addition, your turret now has 100 base health.   
-**Shoulder Turret:** As a Secondary Operation, you may activate a shoulder-mounted turret. As a Tertiary Operation, you may have the turret make up to 2 attacks. The turret has Dodge DC 60, and deals 9 (2d8)  kinetic damage on a hit. This turret lasts for up to a minute and can be ended early as a Tertiary Operation. This can be done up to twice per downtime.
+**Shoulder Turret:** As a Tertiary Operation, you may activate a shoulder-mounted turret. The turret can make up to 2 attacks with a Dodge DC 65, and deals 14 (3d8) kinetic damage on a hit. You may stow the shoulder-mounted turret as a Tertiary Operation.
 
 ### Field Marshal
 **Hearty:** Add \+22 to base health.  
@@ -58,7 +58,7 @@ Grenade Slots: 6
 **Interaction Points:** You gain \+15 Interaction Points.
 
 ### Lieutenant General
-**Tripwire:** You have a tripwire that you can place as a Primary Operation, creating a line up to 20 feet long that requires a DC 85 detection check for someone who isn’t aware of its presence to find. Anyone who walks through it must make a DC 80 dodge or be exposed to the fallen effect.  
+**Tripwire:** You have a tripwire that you can place as a Primary Operation, creating a line up to 20 feet long that requires a DC 100 detection check for someone who isn’t aware of its presence to find. Anyone who walks through it must make a DC 90 dodge or be exposed to the Grappled effect as the tripwire coils around them. The target may use a Primary, Secondary, and Tertiary Operation to make a DC 80 Agility Interaction. On a success they are freed, but on a failure they take 9 (2d8) Kinetic damage. Alternatively, you may use a Tertiary Operation to end this effect, or the effect ends once someone spends a Primary Operation to cut them free.
 **Immunity to Effects:** As a Tertiary Operation you may cleanse an ally within 30 feet of 1 effect other than wounded.  
 **Tactical Advantage:** As a Reactive Operation, when you or an ally within 30 feet of you makes a dodge you may add a \+20 to the dodge. You must do this before you know the result of the dodge.
 
@@ -73,22 +73,8 @@ Grenade Slots: 6
 - Tier V: 5 slots
 
 If you wish to change the attachments you have crafted, you must spend the necessary amount of time to create a new attachment and dismantle the previous attachments.  
-**Autosentry:** As a Primary Operation you can create an autosentry using this ability. This autosentry stays in place for up to four rounds unless it is destroyed or you take a Tertiary Operation to dismiss it. The autosentry takes its turn directly after your own. You may deploy up to 3 autosentries per downtime.
-
-Autosentry  
-Health: 50  
-Damage: 3d10  
-Dodge: DC 65  
-Size: N/A  
-Type: Semiautomatic  
-Maximum Ammo Storage: N/A  
-Shots per Magazine: N/A  
-Attacks: 2  
-Dual-Wield: N/A  
-Precision Weapon: No  
-Range: 30 feet
-
-**Special Abilities:** N/A
+**Autosentry:** As a Secondary Operation you can create an autosentry using this ability. This autosentry stays in place for up to four rounds unless it is destroyed or you take a Tertiary Operation to dismiss it. The autosentry takes its turn directly after your own. You may deploy up to 3 autosentries per downtime.
+![[Autosentry]]
 
 ### Commander
 **Heart of a Lion:** Add \+31 to base health, and at the start of each of your turns if you are below half health (rounded down), you regain 5 health as long as you are conscious. 

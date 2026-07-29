@@ -58,7 +58,7 @@ Grenade Slots: 4
 **Interaction Points:** You gain \+15 Interaction Points.
 
 ### Lieutenant General
-**Tripwire:** You have a tripwire that you can place as a Primary Operation, creating a line up to 20 feet long that requires a DC 85 detection check for someone who isn’t aware of its presence to find. Anyone who walks through  it must make a DC 80 dodge or be exposed to the fallen effect.  
+**Tripwire:** You have a tripwire that you can place as a Primary Operation, creating a line up to 20 feet long that requires a DC 100 detection check for someone who isn’t aware of its presence to find. Anyone who walks through it must make a DC 90 dodge or be exposed to the Grappled effect as the tripwire coils around them. The target may use a Primary, Secondary, and Tertiary Operation to make a DC 80 Agility Interaction. On a success they are freed, but on a failure they take 9 (2d8) Kinetic damage. Alternatively, you may use a Tertiary Operation to end this effect, or the effect ends once someone spends a Primary Operation to cut them free. 
 **Immunity to Effects:** As a Tertiary Operation you may cleanse an ally from 1 effect other than wounded.  
 **Tactical Advantage:** As a Reactive Operation, when an ally within 30 feet of you makes a dodge you may add a \+20 to the dodge. You must choose to do this before the dodge roll is made. 
 
