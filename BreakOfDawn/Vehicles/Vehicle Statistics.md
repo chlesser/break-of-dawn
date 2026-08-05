@@ -93,12 +93,14 @@ While driving a vehicle, you cannot make Combat Maneuvers (unless otherwise stat
 
 **Using the Vehicle’s Weapons:** Primary Operation
 
+**Evasive Maneuvering:** Primary Operation, add your Handling bonus to all dodge rolls until the next round.
+
 **Ram:** Secondary Operation (provided that you have moved at least 20 feet towards the target in that turn)
 
 **Moving the Vehicle:** Tertiary Operation
 
 **Ram**
-When you successfully hit another vehicle with a Ram attack, your own vehicle takes damage equal to half of the damage dealt (rounded down). 
+When you successfully hit another vehicle with a Ram attack, your own vehicle takes damage equal to half of the damage dealt (rounded down).
 
 **Combat Maneuvers**
 Unless otherwise stated in the vehicle’s stat block, vehicles are not capable of using any combat maneuvers.

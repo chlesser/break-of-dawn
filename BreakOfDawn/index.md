@@ -1,7 +1,10 @@
+---
+title: Home
+---
 # Break Of Dawn
 A new TTRPG set in the world of Bungie and 343 Industries’ HALO franchise, made by Benjamin Vick and edited by Charles Lesser, Ethan Crowley,  Alec Sabbe, and John Thoma
 
-### Tactical Guide  
+### Tactical Guide
 A guide to all that you need to know to play the Break of Dawn along with weapons, enemies and allies indexes.
 
 # Table of Contents
@@ -32,10 +35,9 @@ Promethean Enemies……………………………………………………�
 UNSC Allies……………………………………………………………………………………………...96  
 Spartan Info Sheet………………………………………………………………….……………..99
 # Rules
-![[Rules]]
-
+![[Rules/Rules]]
 # Combat
-![[Combat]]
+![[Combat/Combat]]
 
 
 ![[Effects]]
@@ -45,25 +47,16 @@ Spartan Info Sheet……………………………………………………�
 ![[Character Creation Guide]]
 # Fireteam Members
 This is a list of all the playable character classes in Break of Dawn. This includes all of their abilities, health, starting weapons, and other attributes.
-![[a_Classes]]
+![[Classes/Classes]]
 # Homeworlds & Backgrounds
-![[a_Homeworlds]]
+![[Homeworlds/Homeworlds]]
 # Weaponry
-![[Weapons]]
-![[a_Grenades]]
-![[a_Turrets]]
+![[Weapons/Weapons]]
+![[Grenades/Grenades]]
+![[Turrets/Turrets]]
 ![[Attachments]]
 # Vehicles
-
-![[Vehicles]]
+![[Vehicles/Vehicles]]
 
 # Allies and Enemies
-![[Allies and Enemies Statistics]]
-## COVENANT ENEMIES
-![[z_Covenant Enemies]]
-## PROMETHEAN ENEMIES
-![[z_Promethean Enemies]]
-## FLOOD ENEMIES
-![[Flood Enemies]]
-## UNSC ALLIES
-![[z_UNSC Allies]]
+![[Allies and Enemies/Allies and Enemies]]

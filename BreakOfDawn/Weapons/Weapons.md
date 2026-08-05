@@ -14,7 +14,7 @@
 Each weapon has a certain amount of ammo die. Anytime a creature makes an attack with a weapon they roll one of the weapon’s ammo die. When a 1 is rolled, the weapon loses that ammo die and the creature must use a Secondary Operation to reload that weapon on their next turn. When a weapon loses all of its ammo die, it can no longer be used until more ammo for the weapon is found. Usually the GM does not roll ammo dice.
 
 ### Attacking Beyond Range  
-When making an attack beyond the range of a weapon, the Dodge DC decreases by 15 for every 5 feet beyond the weapon’s range. For precision weapons, the Dodge DC only decreases by 10 for every 5 feet beyond the weapon’s range. When the Dodge DC of the weapon reaches 0, the attack automatically misses.
+When making an attack beyond the range of a weapon, the Dodge DC decreases by 10 for every 10 feet beyond the weapon’s range (rounding down). For precision weapons, the Dodge DC only decreases by 5 for every 10 feet beyond the weapon’s range (rounding down). When the Dodge DC of the weapon reaches 0, the attack automatically misses.
 
 ![[a_UNSC Weaponry]]
 ![[a_Covenant Weaponry]]
