@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Break Of Dawn
 A new TTRPG set in the world of Bungie and 343 Industries’ HALO franchise, made by Benjamin Vick and edited by Charles Lesser, Ethan Crowley,  Alec Sabbe, and John Thoma
 
