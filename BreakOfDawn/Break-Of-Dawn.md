@@ -33,7 +33,6 @@ UNSC Allies……………………………………………………………
 Spartan Info Sheet………………………………………………………………….……………..99
 # Rules
 ![[Rules]]
-
 # Combat
 ![[Combat]]
 
