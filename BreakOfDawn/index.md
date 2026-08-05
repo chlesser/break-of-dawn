@@ -36,9 +36,9 @@ Promethean Enemies……………………………………………………�
 UNSC Allies……………………………………………………………………………………………...96  
 Spartan Info Sheet………………………………………………………………….……………..99
 # Rules
-![[Rules]]
+![[Rules/Rules]]
 # Combat
-![[Combat]]
+![[Combat/Combat]]
 
 
 ![[Effects]]
@@ -48,17 +48,16 @@ Spartan Info Sheet……………………………………………………�
 ![[Character Creation Guide]]
 # Fireteam Members
 This is a list of all the playable character classes in Break of Dawn. This includes all of their abilities, health, starting weapons, and other attributes.
-![[a_Classes]]
+![[Classes/Classes]]
 # Homeworlds & Backgrounds
 ![[a_Homeworlds]]
 # Weaponry
-![[Weapons]]
-![[a_Grenades]]
+![[Weapons/Weapons]]
+![[Grenades]]
 ![[a_Turrets]]
 ![[Attachments]]
 # Vehicles
-
-![[Vehicles]]
+![[Vehicles/Vehicles]]
 
 # Allies and Enemies
 ![[Allies and Enemies Statistics]]
