@@ -14,6 +14,7 @@
 **Armor Piercing Rounds**: Add +9 (2d8) to any damage dealt against shields.
 **High Caliber Rounds**: Add +9 (2d8) to any damage dealt against health.
 
+
 #### Tier IV Attachment
 **Laser Sights**: Increase the Dodge DC by +10.
 **Plasma Shield**: A portable energy shield is encased within the Bulldog with 50 shield health and can be activated and deactivated as a Secondary Operation. When you fail a dodge by 20 or less while the shield is active, the damage is transferred to the shield. While deactivated, the shield regains 10 shield health at the start of each of your turns.
