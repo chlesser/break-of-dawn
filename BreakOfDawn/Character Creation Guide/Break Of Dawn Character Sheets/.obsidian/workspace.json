@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spartan Mac.md",
+                "file": "Break of Dawn Character Sheet Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spartan Mac"
+              "title": "Break of Dawn Character Sheet Template"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,6 +187,10 @@
   },
   "active": "4046f3c50c440075",
   "lastOpenFiles": [
+    "Ben's 2nd One Shot BOD Summer 2026 1.pdf",
+    "Break of Dawn Character Sheet Template.md",
+    "Ben's 2nd One Shot BOD Summer 2026.pdf",
+    "One Shot.md",
     "Spartan Mac.md"
   ]
 }

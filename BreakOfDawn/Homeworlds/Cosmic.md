@@ -2,7 +2,7 @@
 When in a cosmic environment, you can ignore the movement penalties associated with combat in space. 
 
 ### Cosmic Background
-*Technician* \- You can spend 2 hours making a machine that will help with one interaction of your choice. The machine will add a \+10 to the roll. You can have up to 2 machines active at a time.
+*Technician* \- You can spend Secondary Operation making a machine that will help with one interaction of your choice. The machine will add a \+10 to the roll. You can have up to 2 machines active at a time. You may create this machine 3 times per downtime.
 
 *Astronaut* \- Add \+10 to all Handling interactions and can spend 10 minutes to repair a vehicle for up to 20 health. 
 
