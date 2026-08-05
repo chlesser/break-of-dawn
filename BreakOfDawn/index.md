@@ -52,8 +52,8 @@ This is a list of all the playable character classes in Break of Dawn. This incl
 ![[Homeworlds/Homeworlds]]
 # Weaponry
 ![[Weapons/Weapons]]
-![[Grenades]]
-![[a_Turrets]]
+![[Grenades/Grenades]]
+![[Turrets/Turrets]]
 ![[Attachments]]
 # Vehicles
 ![[Vehicles/Vehicles]]
