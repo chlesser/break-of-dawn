@@ -8,7 +8,7 @@ Health per rank up: 3 (1d4)
 Speed: 35 feet  
 Size: Medium  
 Recommended Starting Weaponry: Sniper Rifle, Magnum Pistol  
-Superiorities: Agility, Tech  
+Superiorities: Deception, Firepower 
 Expertises: Detection, Stealth  
 Gun Slots: 3  
 Grenade Slots: 5
