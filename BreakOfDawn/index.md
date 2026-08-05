@@ -49,7 +49,7 @@ Spartan Info Sheet……………………………………………………�
 This is a list of all the playable character classes in Break of Dawn. This includes all of their abilities, health, starting weapons, and other attributes.
 ![[Classes/Classes]]
 # Homeworlds & Backgrounds
-![[a_Homeworlds]]
+![[Homeworlds/Homeworlds]]
 # Weaponry
 ![[Weapons/Weapons]]
 ![[Grenades]]

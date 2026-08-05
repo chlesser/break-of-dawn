@@ -2,7 +2,7 @@ To create a Spartan in Break of Dawn, follow the below instructions.
 
 #### Step 1: Select a Class
 
-Select 1 of the 9 classes available. This class will help determine what your Spartan excels at and what their abilities will be. Once you select a class, read the statistics and starting abilities associated with that class. Next, select other abilities according to your [[Rank]]. All Spartans start at Second Lieutenant.
+Select 1 of the 9 [[Classes/Classes]] available. This class will help determine what your Spartan excels at and what their abilities will be. Once you select a class, read the statistics and starting abilities associated with that class. Next, select other abilities according to your [[Rank]]. All Spartans start at Second Lieutenant.
 
 #### Step 2: Choose Your Weapons
 
@@ -10,7 +10,7 @@ As part of your class statistics, you will have a number of gun and grenade slot
 
 #### Step 3: Build Your Origin
 
-After selecting your Spartan’s weaponry, decide what type of [[a_Homeworlds|Homeworld]] your Spartan hails from. Each [[a_Homeworlds|Homeworld]] will provide some additional benefits and abilities. Once you have decided on a [[a_Homeworlds|Homeworld]], select one of the Backgrounds associated with that [[a_Homeworlds|Homeworld]], which will provide further abilities, Superiorities, and Expertises.
+After selecting your Spartan’s weaponry, decide what type of [[Homeworlds/Homeworlds|Homeworld]] your Spartan hails from. Each [[Homeworlds/Homeworlds|Homeworld]] will provide some additional benefits and abilities. Once you have decided on a [[Homeworlds/Homeworlds|Homeworld]], select one of the Backgrounds associated with that [[Homeworlds/Homeworlds|Homeworld]], which will provide further abilities, Superiorities, and Expertises.
 
 
 #### Step 4: Personalize Your Spartan
