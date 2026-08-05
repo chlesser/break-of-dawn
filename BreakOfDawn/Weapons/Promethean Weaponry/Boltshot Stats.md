@@ -18,6 +18,6 @@
 | **Dodge:** DC 75<br>**Damage:** 18 (4d8)<br>**Attacks:** 1<br>**Ammo Die:** 3d4<br>**Range:** 10 feet | **Size:** Small<br>**Type:** Hardlight<br>**Dual-Wield:** Yes<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Average | _Split_<br>_Shared Ammo_ |
 
 #### Special Abilities
-**Split:** Damage from the Boltshot can be split between two creatures within 5 feet of each other at the user’s choice. The second creature must also make a dodge roll against the same attack to avoid being hit. The user can decide the amount of damage each target takes after both dodge rolls have been made.
+**Split:** Damage from the Boltshot can be split between two creatures within 5 feet of each other at the user’s choice. The second creature must also make a dodge roll against the same attack to avoid being hit. The user must decide on how the damage is split before any dodge rolls are made.
 
 **Shared Ammo:** When you lose an Ammo Die in alternate fire mode, you also a dice from its primary fire mode.
