@@ -118,13 +118,18 @@ Hearty: Add 9 to your base health.
 | Dodge: DC 65 <br>Damage: 11 3d6 <br>Attacks: 2 <br>Ammo Die: 6d4 <br>Range: 50 feet | Size: Small <br>Type: Kinetic <br>Dual-Wield: Yes <br>Precision Weapon: Yes <br>Called Shot Bonus: 5 Cover <br>Negation: Weak | N/A                   |
 ## Turn Order
 *Add/remove/drag rows to represent turn order*
+Team Rocket
+1 Quickshade
+2 Beaver
+3 Nitro
+4 Fry 
 
-|          |
-| -------- |
-| Player 1 |
-| Player 2 |
-| Enemy 1  |
-| ...      |
+|            |
+| ---------- |
+| Beaver     |
+| Quickshade |
+| Fry        |
+| Nitro      |
 # Character Info
 ## Backstory
 
