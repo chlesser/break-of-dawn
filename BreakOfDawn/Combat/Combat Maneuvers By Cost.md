@@ -7,7 +7,6 @@
 [[Throw]]
 ### Secondary Operation
 [[Draw Fire]]
-[[Hull Pierce]]
 [[Prepare]]
 [[Push]]
 ### Tertiary Operation

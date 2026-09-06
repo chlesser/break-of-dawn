@@ -93,7 +93,7 @@ While driving a vehicle, you cannot make Combat Maneuvers (unless otherwise stat
 
 **Using the Vehicle’s Weapons:** Primary Operation
 
-**Evasive Maneuvering:** Primary Operation, add your Handling bonus to all dodge rolls until the next round.
+**Evasive Maneuvering:** Primary Operation, add your Handling bonus to all dodge rolls until your next turn.
 
 **Ram:** Secondary Operation (provided that you have moved at least 20 feet towards the target in that turn)
 

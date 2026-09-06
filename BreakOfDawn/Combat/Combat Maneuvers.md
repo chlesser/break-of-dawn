@@ -25,8 +25,6 @@ In combat, creatures are capable of making quick maneuvers in the heat of battle
 
 ![[Hide]]
 
-![[Hull Pierce]]
-
 ![[Identify]]
 
 ![[Intimidate]]
